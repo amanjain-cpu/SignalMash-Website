@@ -1,0 +1,91 @@
+{
+  "path": "/10dlc-readiness-checker",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6a99c62651116c6c8837e987",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6a99c62651116c6c8837e987",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "10DLC Readiness Checker: Will Your Campaign Pass?"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Free 22-point 10DLC readiness check. Answer yes or no on your brand record, website, privacy policy, opt-in evidence and sample messages and see what would get your campaign rejected before you submit.",
+        "name": "description"
+      }
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/10dlc-readiness-checker",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "style",
+      "attrs": {},
+      "html": "\n#rc-tool{border:1px solid rgba(0,0,0,.12);border-radius:14px;padding:22px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.06)}\n.rc-sec{margin:0 0 18px}\n.rc-sec-h{font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;opacity:.65;margin:0 0 8px}\n.rc-q{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-top:1px solid rgba(0,0,0,.07)}\n.rc-q-txt{flex:1;font-size:15px;line-height:1.5}\n.rc-tag{display:inline-block;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;padding:2px 7px;border-radius:99px;margin-left:6px;vertical-align:middle}\n.rc-tag-c{background:#fde8e1;color:#b4531a}\n.rc-tag-i{background:#e8f0fe;color:#1a56b4}\n.rc-btns{display:flex;gap:6px;flex-shrink:0}\n.rc-b{font:13px inherit;padding:6px 14px;border-radius:99px;border:1px solid rgba(0,0,0,.2);background:#fff;cursor:pointer}\n.rc-b.on-yes{background:#2fae5d;color:#fff;border-color:#2fae5d}\n.rc-b.on-no{background:#b4531a;color:#fff;border-color:#b4531a}\n.rc-res{margin-top:18px;padding:18px;border-radius:12px;background:#f7f7f7}\n.rc-score{font-size:34px;font-weight:700;line-height:1.1}\n.rc-verdict{font-size:16px;margin-top:4px}\n.rc-fix{margin-top:12px;font-size:14px;line-height:1.6}\n.rc-fix-li{margin:6px 0 6px 18px}\n.rc-bar{height:8px;border-radius:99px;background:rgba(0,0,0,.08);margin-top:12px;overflow:hidden}\n.rc-fill{height:100%;width:0;background:#2fae5d;transition:width .2s}\n.rc-row{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}\n.rc-cta{display:inline-block;padding:10px 18px;border-radius:99px;background:#2fae5d;color:#fff;text-decoration:none;font-weight:600;font-size:14px}\n.rc-reset{font:13px inherit;padding:8px 14px;border-radius:99px;border:1px solid rgba(0,0,0,.2);background:#fff;cursor:pointer}\n"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebApplication\",\"name\":\"10DLC Readiness Checker\",\"url\":\"https://signalmash.com/10dlc-readiness-checker\",\"applicationCategory\":\"BusinessApplication\",\"operatingSystem\":\"Any (web browser)\",\"browserRequirements\":\"Requires JavaScript\",\"description\":\"A 22-point self-assessment that scores a brand and campaign against the checks A2P 10DLC reviewers apply, flags automatic-rejection items, and orders what to fix first. Runs entirely in the browser.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"publisher\":{\"@id\":\"https://signalmash.com/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What gets a 10DLC campaign rejected?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Most rejections are contradictions between fields rather than fraud findings: a legal name that does not match the IRS EIN letter, an address that differs from the state filing, a website that does not resolve or does not match the email and sample-message domain, a privacy policy without an explicit statement that numbers are not shared with third parties, opt-in that is described but not evidenced, sample messages missing the brand name or STOP language, or samples that do not match the declared use case.\"}},{\"@type\":\"Question\",\"name\":\"How do I know if my business is ready for 10DLC registration?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You are ready when your legal entity name and EIN match IRS records, your address matches your state filing, you have a live website on your own domain with a privacy policy containing the no-third-party-sharing statement, you can show the exact opt-in mechanism with a screenshot or URL, and you have two to five sample messages that name the brand, match your use case, and include opt-out instructions. The readiness checker walks through each of these.\"}},{\"@type\":\"Question\",\"name\":\"Is the 10DLC readiness checker free?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. It is a browser-side self-assessment; nothing you enter is sent anywhere. It is designed to catch the items that would cost you a rejection and a repeat vetting fee before you submit to The Campaign Registry.\"}}]}]}"
+    }
+  ]
+}

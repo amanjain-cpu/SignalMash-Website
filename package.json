@@ -1,0 +1,41 @@
+{
+  "name": "signalmash-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "signalmash.com, migrated off Webflow to Next.js. Frontend only.",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "import:fetch": "node scripts/fetch-live-site.mjs",
+    "import:assets": "node scripts/download-assets.mjs",
+    "import:build": "node scripts/build-content.mjs",
+    "verify:seo": "node scripts/verify-seo.mjs",
+    "verify:visual": "node scripts/visual-compare.mjs"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cheerio": "^1.1.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^4.1.10"
+  }
+}

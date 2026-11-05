@@ -1,0 +1,113 @@
+{
+  "path": "/marketing-and-promotions-with-signalmash",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dbe3be8f32c732e569e960",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dbe3be8f32c732e569e960",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS Marketing & Promotions | Boost Engagement"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Drive engagement and sales with compliant SMS promotions. Signalmash helps you create campaigns customers actually read and act on.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS Marketing & Promotions | Boost Engagement",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Drive engagement and sales with compliant SMS promotions. Signalmash helps you create campaigns customers actually read and act on.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS Marketing & Promotions | Boost Engagement",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Drive engagement and sales with compliant SMS promotions. Signalmash helps you create campaigns customers actually read and act on.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/marketing-and-promotions-with-signalmash",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

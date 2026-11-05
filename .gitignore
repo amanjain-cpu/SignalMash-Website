@@ -1,0 +1,31 @@
+# dependencies
+node_modules
+
+# next.js
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# env
+.env
+.env*.local
+
+# logs and scratch
+*.log
+scripts/.scratch
+
+# The raw Webflow capture (HTML, 240 MB of assets). It is the INPUT to `npm run import:build`;
+# the output (content/ and public/) is committed, so a fresh clone builds without it.
+capture
+
+# Playwright output
+tests/.output
+tests/.report
+
+# Stray files a local notification hook writes into whatever directory is current
+C*Users*claude-notify-*
+
+# os
+.DS_Store
+Thumbs.db

@@ -1,0 +1,91 @@
+<!--sm:header--><section class="rc-wrap"><h1 class="rc-h1">10DLC Readiness Checker</h1><p class="rc-lead">Twenty-two yes-or-no questions covering everything a campaign reviewer actually checks. Answer honestly and you will see, before you spend a vetting fee, which items would get your brand or campaign rejected — and what to fix first. Nothing you enter leaves your browser.</p><div id="rc-tool" class="rc-tool"></div><h2 class="rc-h2">How the score is built</h2><p class="rc-p">Every question maps to a reason campaigns are rejected in practice. Items marked <strong>critical</strong> are automatic rejections on their own — a mismatched legal name, a missing privacy-policy sentence, sample messages without opt-out language. Items marked <strong>important</strong> lower your trust score or throughput rather than failing you outright. The checker weights them accordingly, so a single critical miss shows as &quot;not ready&quot; even if everything else is perfect. That is how reviewers treat it too.</p><h2 class="rc-h2">What reviewers are really looking for</h2><p class="rc-p">Carrier vetting partners are not evaluating whether your business is legitimate in some general sense. They are checking that a set of records is complete and <em>internally consistent</em>: the legal name matches the IRS letter, the address matches the state filing, the website domain matches the email domain and the links in your samples, the use case matches the samples, and the opt-in you describe is something they can see evidence of. Most rejections are not fraud calls. They are contradictions between two fields.</p><h2 class="rc-h2">The three things people get wrong most</h2><ul role="list" class="rc-ul"><li class="rc-li"><strong>The privacy policy sentence.</strong> Reviewers look for an explicit statement that mobile numbers and SMS consent are not shared with third parties or affiliates for marketing. A generic policy without that sentence fails.</li><li class="rc-li"><strong>Opt-in you cannot show.</strong> &quot;Customers agree when they sign up&quot; is not evidence. A screenshot of the form with the SMS disclosure beside the phone field, or the keyword flow, is.</li><li class="rc-li"><strong>Samples that do not match the use case.</strong> Register a transactional campaign and include a promotional sample, and the campaign is rejected on that alone.</li></ul><p class="rc-p">For the full detail behind each check, see the <a href="/post/a2p-10dlc-registration-requirements" class="rc-a">A2P 10DLC requirements guide</a> and the <a href="/post/10dlc-campaign-approval-checklist" class="rc-a">campaign approval checklist</a>. If your score is below ready and you would rather not iterate through rejections at a vetting fee each time, <a href="/contact-us" class="rc-a">Signalmash registers brands and campaigns for customers</a> as part of onboarding and handles resubmissions.</p></section><!--sm:footer--><!--sm:s:jquery-3-5-1-min-dc5e7f18c8--><!--sm:s:webflow-schunk-36b8fb49256177c8--><!--sm:s:webflow-schunk-4645abb4a12c5822--><!--sm:s:webflow-f1141b7e-18deed8cc0459778--><!-- Begin SF Tag: loader only. Badge container lives in the footer component, next to the AICPA SOC logo. -->
+<!--sm:s:sourceforge-badge-->
+<!-- End SF Tag -->
+<!-- Blog post structured data: BlogPosting + speakable, and FAQPage built from "People also ask" / FAQ sections -->
+<!--sm:s:blog-post-schema-->
+<!-- Dead WordPress asset patch: the pricing tables are HTML embeds that still link to /wp-content/uploads/* files which no longer exist (4x area-code CSV, 3x help icon). Repoint the CSV links to the contact form and swap the missing icon for an inline SVG. -->
+<!--sm:s:legacy-download-links-->
+<script>
+(function(){
+  var Q=[
+   ['Brand record',[
+    ['Your legal entity name is entered exactly as it appears on your IRS EIN letter, including Inc., LLC and punctuation.','c','Copy the name character for character from the EIN letter, not from your website.'],
+    ['You are registering with an EIN (or the sole-proprietor route), not a DUNS number.','c','US brands register with an EIN. Sole proprietors without one use the sole-prop path with tight limits.'],
+    ['Your business address matches your Secretary of State filing, not a mailbox or coworking address.','c','Use the registered address from the state record.'],
+    ['The vertical or industry you selected matches what your campaigns actually do.','i','A vertical that contradicts the use case is a standard vetting flag.'],
+    ['You are ordering standard or enhanced vetting rather than skipping it.','i','Unvetted brands get conservative default throughput. See trust scores and throughput.']
+   ]],
+   ['Website and privacy policy',[
+    ['Your website loads over HTTPS with a valid certificate and is not a parked or coming-soon page.','c','Reviewers visit the site. It must resolve cleanly at the exact registered address.'],
+    ['The site shows a physical address and contact details.','i','Evidence of a real operating business.'],
+    ['The website domain matches the domain of your contact email and the links in your sample messages.','c','A three-way domain mismatch reads as lead generation or a front.'],
+    ['Your privacy policy is publicly reachable on that domain and linked from the opt-in form.','c','The policy must be findable from where consent is collected.'],
+    ['The privacy policy contains an explicit sentence that mobile numbers and SMS consent are not shared with third parties or affiliates for marketing.','c','Reviewers look for this specific statement. A generic policy fails.'],
+    ['Nothing on the site or in the messages touches SHAFT-C, lead generation, affiliate marketing, debt relief or other restricted categories.','c','Restricted content is rejected regardless of the rest of the submission.']
+   ]],
+   ['Opt-in',[
+    ['You can name the exact opt-in mechanism: web form URL, keyword and number, paper form, verbal script or in-app checkbox.','c','"Customers agree when they sign up" is not a mechanism.'],
+    ['You have a screenshot or URL showing the SMS disclosure next to the phone-number field, not buried in the terms.','c','Reviewers want to see the consent, not read about it.'],
+    ['The disclosure states message frequency, that message and data rates may apply, STOP and HELP instructions, and that consent is not a condition of purchase.','i','The standard disclosure block. Missing pieces lower confidence.'],
+    ['Consent is single-brand: recipients agree to hear from you, not "you and our partners".','c','Shared consent is a rejection.']
+   ]],
+   ['Sample messages',[
+    ['You have at least two sample messages, ideally five.','i','More samples that match the use case build reviewer confidence.'],
+    ['Every sample includes your brand name.','c','Unbranded samples are rejected.'],
+    ['At least one sample includes opt-out instructions such as "Reply STOP to opt out".','c','Missing opt-out language is one of the most common rejection reasons.'],
+    ['Samples match the declared use case, with no promotional sample inside a transactional or 2FA campaign.','c','A use-case mismatch is an automatic rejection.'],
+    ['Links in samples point to your own registered domain, never a public link shortener.','c','Public shorteners are heavily filtered and flagged in review.']
+   ]],
+   ['Handling and after approval',[
+    ['STOP, END, CANCEL, UNSUBSCRIBE and QUIT are processed automatically, and HELP returns brand name, support contact and opt-out instructions.','i','Keyword handling is checked and is required for ongoing compliance.'],
+    ['You will attach numbers to the campaign promptly and keep sent content consistent with the registered samples.','i','Content drift after approval is the main cause of filtering weeks later.']
+   ]]
+  ];
+  var host=document.getElementById('rc-tool'); if(!host) return;
+  var ans={}; var html='';
+  var n=0;
+  Q.forEach(function(sec,si){
+    html+='<div class="rc-sec"><div class="rc-sec-h">'+sec[0]+'</div>';
+    sec[1].forEach(function(q){
+      var id='q'+n; n++;
+      html+='<div class="rc-q" data-id="'+id+'"><div class="rc-q-txt">'+q[0]+'<span class="rc-tag '+(q[1]==='c'?'rc-tag-c">critical':'rc-tag-i">important')+'</span></div><div class="rc-btns"><button type="button" class="rc-b" data-v="yes">Yes</button><button type="button" class="rc-b" data-v="no">No</button></div></div>';
+    });
+    html+='</div>';
+  });
+  html+='<div class="rc-res" id="rc-res"><div class="rc-score" id="rc-score">Answer the questions above</div><div class="rc-verdict" id="rc-verdict"></div><div class="rc-bar"><div class="rc-fill" id="rc-fill"></div></div><div class="rc-fix" id="rc-fix"></div><div class="rc-row"><a class="rc-cta" href="/contact-us">Have Signalmash register it for you</a><button type="button" class="rc-reset" id="rc-reset">Reset</button></div></div>';
+  host.innerHTML=html;
+  var flat=[]; Q.forEach(function(s){s[1].forEach(function(q){flat.push(q);});});
+  function render(){
+    var answered=Object.keys(ans).length, total=flat.length;
+    var critFail=[], impFail=[], score=0, max=0;
+    flat.forEach(function(q,i){
+      var w=q[1]==='c'?3:1; max+=w;
+      var a=ans['q'+i];
+      if(a==='yes') score+=w;
+      else if(a==='no'){ (q[1]==='c'?critFail:impFail).push(q); }
+    });
+    var pct=Math.round(score/max*100);
+    var sc=document.getElementById('rc-score'), v=document.getElementById('rc-verdict'), f=document.getElementById('rc-fix'), fill=document.getElementById('rc-fill');
+    if(answered<total){ sc.textContent=answered+' of '+total+' answered'; v.textContent=''; f.innerHTML=''; fill.style.width=(answered/total*100)+'%'; fill.style.background='#999'; return; }
+    sc.textContent=pct+'% ready';
+    fill.style.width=pct+'%';
+    if(critFail.length){ v.innerHTML='<strong>Not ready to submit.</strong> '+critFail.length+' critical item'+(critFail.length>1?'s would each get this rejected on their own.':' would get this rejected on its own.'); fill.style.background='#b4531a'; }
+    else if(impFail.length){ v.innerHTML='<strong>Ready to submit</strong>, with '+impFail.length+' item'+(impFail.length>1?'s':'')+' that will cost you throughput or reviewer confidence.'; fill.style.background='#e0a100'; }
+    else { v.innerHTML='<strong>Ready.</strong> This submission has everything a reviewer looks for.'; fill.style.background='#2fae5d'; }
+    var fx='';
+    if(critFail.length){ fx+='<strong>Fix these first:</strong>'; critFail.forEach(function(q){ fx+='<div class="rc-fix-li">• '+q[2]+'</div>'; }); }
+    if(impFail.length){ fx+='<strong style="display:block;margin-top:8px">Then these:</strong>'; impFail.forEach(function(q){ fx+='<div class="rc-fix-li">• '+q[2]+'</div>'; }); }
+    f.innerHTML=fx;
+  }
+  host.addEventListener('click',function(e){
+    var b=e.target.closest('.rc-b'); if(!b) return;
+    var row=b.closest('.rc-q'); var id=row.getAttribute('data-id'); var val=b.getAttribute('data-v');
+    ans[id]=val;
+    row.querySelectorAll('.rc-b').forEach(function(x){ x.classList.remove('on-yes','on-no'); });
+    b.classList.add(val==='yes'?'on-yes':'on-no');
+    render();
+  });
+  document.getElementById('rc-reset').addEventListener('click',function(){ ans={}; host.querySelectorAll('.rc-b').forEach(function(x){x.classList.remove('on-yes','on-no');}); render(); window.scrollTo({top:host.offsetTop-40,behavior:'smooth'}); });
+  render();
+})();
+</script><!--sm:s:final-popup-data-1-0-0--><!--sm:s:final-popup-ui-1-0-0--><!--sm:s:final-category-sort-1-0-0--><!--sm:s:final-category-sort-v2-2-0-0-->

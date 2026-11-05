@@ -1,0 +1,115 @@
+{
+  "path": "/case-studies/how-a-digital-bank-protected-14-million",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68ea814976e80c3b0af23425",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68ea814976e80c3b0af23425",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68ea814976e80c3b0af2341e",
+    "data-wf-item-slug": "how-a-digital-bank-protected-14-million"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Digital Bank Fraud Case Study: 60% Less Fraud with Alerts"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A digital bank was losing millions to fraud while frustrating customers with security friction. How smarter real-time alerts fixed both problems.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital Bank Fraud Case Study: 60% Less Fraud with Alerts",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A digital bank was losing millions to fraud while frustrating customers with security friction. How smarter real-time alerts fixed both problems.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital Bank Fraud Case Study: 60% Less Fraud with Alerts",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A digital bank was losing millions to fraud while frustrating customers with security friction. How smarter real-time alerts fixed both problems.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/case-studies/how-a-digital-bank-protected-14-million",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

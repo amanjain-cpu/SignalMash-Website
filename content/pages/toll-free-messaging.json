@@ -1,0 +1,127 @@
+{
+  "path": "/toll-free-messaging",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68d6765cdfd8de10c4709336",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68d6765cdfd8de10c4709336",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Toll-Free Messaging | Nationwide Business SMS & MMS"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach customers faster with toll-free text messaging. High throughput, verified use cases, and simple setup powered by Signalmash’s carrier network.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Toll-Free Messaging | Nationwide Business SMS & MMS",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach customers faster with toll-free text messaging. High throughput, verified use cases, and simple setup powered by Signalmash’s carrier network.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Toll-Free Messaging | Nationwide Business SMS & MMS",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach customers faster with toll-free text messaging. High throughput, verified use cases, and simple setup powered by Signalmash’s carrier network.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/toll-free-messaging",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"Toll-Free Messaging\",\"serviceType\":\"Toll-Free Messaging\",\"url\":\"https://signalmash.com/toll-free-messaging\",\"description\":\"Verified toll-free SMS and MMS for nationwide business messaging with high throughput and simplified compliance.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Toll-Free Messaging\",\"item\":\"https://signalmash.com/toll-free-messaging\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/toll-free-messaging#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do I need to verify my toll-free number for messaging?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Toll-free verification is a one-time review by the toll-free aggregator that confirms your business identity, use case and opt-in process. Unverified toll-free numbers are heavily filtered or blocked; once approved, your messages are far less likely to be filtered and can be sent at higher throughput, as long as content stays compliant.\"}},{\"@type\":\"Question\",\"name\":\"Can I use my existing toll-free number for SMS?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Signalmash can enable SMS and MMS on the toll-free number you already use for voice, or port it in from another carrier, so customers see one number for calls and texts. Verification is submitted on your behalf as part of onboarding.\"}},{\"@type\":\"Question\",\"name\":\"How long does verification take?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Toll-free verification typically takes 3-7 business days, and up to 1-2 weeks during high-volume periods, depending on aggregator processing. Signalmash reviews your submission first so it is approved on the first pass.\"}},{\"@type\":\"Question\",\"name\":\"What if my messages get blocked?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Unverified toll-free numbers face strict carrier filtering and can be blocked entirely. Verification greatly reduces filtering for compliant traffic, and Signalmash monitors delivery receipts and error codes so any blocked messages are identified and fixed quickly.\"}},{\"@type\":\"Question\",\"name\":\"Can toll-free numbers send text messages?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Verified toll-free numbers can send SMS and MMS nationwide with high throughput and no 10DLC campaign registration. Verification takes about 1-2 weeks, and Signalmash submits the request on your behalf.\"}},{\"@type\":\"Question\",\"name\":\"Toll-free vs 10DLC for business texting: which is better?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Toll-free is better for nationwide, high-volume, one-way notifications and for businesses that want a single number for calls and texts. 10DLC is better for local presence and two-way conversations. Many businesses run both from the same Signalmash account.\"}}]}"
+    }
+  ]
+}

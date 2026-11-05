@@ -1,0 +1,115 @@
+{
+  "path": "/post/mass-texting-best-practices",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "mass-texting-best-practices"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Mass Texting Best Practices: Send Smarter in 2026"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send mass texts that get delivered and get results. Best practices for compliance, deliverability, timing, personalization and measuring performance.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Mass Texting Best Practices: Send Smarter in 2026",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send mass texts that get delivered and get results. Best practices for compliance, deliverability, timing, personalization and measuring performance.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Mass Texting Best Practices: Send Smarter in 2026",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send mass texts that get delivered and get results. Best practices for compliance, deliverability, timing, personalization and measuring performance.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/mass-texting-best-practices",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

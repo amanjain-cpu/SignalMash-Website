@@ -1,0 +1,115 @@
+{
+  "path": "/case-studies/24-agents-back-online-in-72-hours",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68ea814976e80c3b0af23425",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68ea814976e80c3b0af23425",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68ea814976e80c3b0af2341e",
+    "data-wf-item-slug": "24-agents-back-online-in-72-hours"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Resolve Office-Wide SMS Delivery Crisis in 72 Hours"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A 24-agent real estate office recovered from complete SMS failure in 72 hours with Signalmash, reaching 97% delivery during the critical Q4 period.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Resolve Office-Wide SMS Delivery Crisis in 72 Hours",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A 24-agent real estate office recovered from complete SMS failure in 72 hours with Signalmash, reaching 97% delivery during the critical Q4 period.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Resolve Office-Wide SMS Delivery Crisis in 72 Hours",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A 24-agent real estate office recovered from complete SMS failure in 72 hours with Signalmash, reaching 97% delivery during the critical Q4 period.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/case-studies/24-agents-back-online-in-72-hours",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

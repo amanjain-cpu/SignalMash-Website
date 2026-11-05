@@ -1,0 +1,113 @@
+{
+  "path": "/non-profit",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68e0ef87d835e3b27eb984eb",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68e0ef87d835e3b27eb984eb",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Signalmash for Nonprofits | Compliant SMS Outreach"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power donor and volunteer messaging with carrier-approved SMS. Signalmash helps nonprofits communicate safely and effectively.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash for Nonprofits | Compliant SMS Outreach",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power donor and volunteer messaging with carrier-approved SMS. Signalmash helps nonprofits communicate safely and effectively.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash for Nonprofits | Compliant SMS Outreach",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power donor and volunteer messaging with carrier-approved SMS. Signalmash helps nonprofits communicate safely and effectively.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/non-profit",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

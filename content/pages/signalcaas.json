@@ -1,0 +1,115 @@
+{
+  "path": "/signalcaas",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b6ea256ec7e69cbb480ad7",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b6ea256ec7e69cbb480ad7",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {
+    "class": "body-3"
+  },
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SignalCAAS | Modern CCaaS Built on Carrier-Grade CPaaS"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Transform your contact center with reliable SIP and messaging APIs. SignalCAAS powers high-volume, high-quality customer interactions.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SignalCAAS | Modern CCaaS Built on Carrier-Grade CPaaS",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Transform your contact center with reliable SIP and messaging APIs. SignalCAAS powers high-volume, high-quality customer interactions.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SignalCAAS | Modern CCaaS Built on Carrier-Grade CPaaS",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Transform your contact center with reliable SIP and messaging APIs. SignalCAAS powers high-volume, high-quality customer interactions.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/signalcaas",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

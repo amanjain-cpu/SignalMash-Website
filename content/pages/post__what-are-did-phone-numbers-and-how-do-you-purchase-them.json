@@ -1,0 +1,115 @@
+{
+  "path": "/post/what-are-did-phone-numbers-and-how-do-you-purchase-them",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "what-are-did-phone-numbers-and-how-do-you-purchase-them"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "What Are DID Phone Numbers and How Do You Buy Them?"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A DID phone number is a regular number set up with Direct Inward Dialing over VoIP or PSTN. Learn how DIDs work and how to purchase them for your business.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "What Are DID Phone Numbers and How Do You Buy Them?",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A DID phone number is a regular number set up with Direct Inward Dialing over VoIP or PSTN. Learn how DIDs work and how to purchase them for your business.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "What Are DID Phone Numbers and How Do You Buy Them?",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A DID phone number is a regular number set up with Direct Inward Dialing over VoIP or PSTN. Learn how DIDs work and how to purchase them for your business.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/what-are-did-phone-numbers-and-how-do-you-purchase-them",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

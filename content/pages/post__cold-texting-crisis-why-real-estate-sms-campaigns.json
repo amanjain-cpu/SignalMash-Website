@@ -1,0 +1,115 @@
+{
+  "path": "/post/cold-texting-crisis-why-real-estate-sms-campaigns",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "cold-texting-crisis-why-real-estate-sms-campaigns"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Why Real Estate SMS Campaigns Fail and How to Fix Them"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real estate investors are losing leads to blocked SMS campaigns. Understand why messages fail and how a compliance-first approach restores deliverability.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Real Estate SMS Campaigns Fail and How to Fix Them",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real estate investors are losing leads to blocked SMS campaigns. Understand why messages fail and how a compliance-first approach restores deliverability.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Real Estate SMS Campaigns Fail and How to Fix Them",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real estate investors are losing leads to blocked SMS campaigns. Understand why messages fail and how a compliance-first approach restores deliverability.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/cold-texting-crisis-why-real-estate-sms-campaigns",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

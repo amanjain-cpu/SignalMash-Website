@@ -1,0 +1,115 @@
+{
+  "path": "/post/slack-for-support-why-signalmash-treats-support-like-a-product",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "slack-for-support-why-signalmash-treats-support-like-a-product"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Slack-Based CPaaS Support: Real-Time Help from Engineers"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Signalmash runs customer support in shared Slack channels instead of ticket queues: direct engineer access, faster resolution and real-time fixes.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Slack-Based CPaaS Support: Real-Time Help from Engineers",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Signalmash runs customer support in shared Slack channels instead of ticket queues: direct engineer access, faster resolution and real-time fixes.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Slack-Based CPaaS Support: Real-Time Help from Engineers",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Signalmash runs customer support in shared Slack channels instead of ticket queues: direct engineer access, faster resolution and real-time fixes.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/slack-for-support-why-signalmash-treats-support-like-a-product",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

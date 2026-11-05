@@ -1,0 +1,98 @@
+{
+  "path": "/home",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6a99a55b157bc299330b9a79",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6a99a55b157bc299330b9a79",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Signalmash"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash home page.",
+        "name": "description"
+      }
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/home",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "canonical",
+        "href": "https://signalmash.com/"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "http-equiv": "refresh",
+        "content": "0;url=/"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {},
+      "html": "location.replace('/');"
+    }
+  ]
+}

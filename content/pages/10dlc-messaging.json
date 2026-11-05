@@ -1,0 +1,127 @@
+{
+  "path": "/10dlc-messaging",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68c4326bc11fbbc98ab17ff3",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68c4326bc11fbbc98ab17ff3",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "10DLC Messaging | Fast, Compliant Business Texting"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Simplify 10DLC registration and boost deliverability. Signalmash handles brand vetting, campaign setup, and compliance for your business messaging.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "10DLC Messaging | Fast, Compliant Business Texting",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Simplify 10DLC registration and boost deliverability. Signalmash handles brand vetting, campaign setup, and compliance for your business messaging.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "10DLC Messaging | Fast, Compliant Business Texting",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Simplify 10DLC registration and boost deliverability. Signalmash handles brand vetting, campaign setup, and compliance for your business messaging.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/10dlc-messaging",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"10DLC Messaging\",\"serviceType\":\"10DLC Messaging\",\"url\":\"https://signalmash.com/10dlc-messaging\",\"description\":\"10DLC business text messaging with fast brand and campaign registration, high deliverability and carrier-compliant sending.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"10DLC Messaging\",\"item\":\"https://signalmash.com/10dlc-messaging\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/10dlc-messaging#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Why do I need to register my 10DLC number?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"US carriers require every business sending application-to-person SMS from a 10-digit local number to register its brand and campaign with The Campaign Registry. Registration verifies who is sending, prevents spam, and unlocks higher throughput and deliverability for registered 10DLC traffic.\"}},{\"@type\":\"Question\",\"name\":\"Can I use my existing business phone number?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Any valid 10-digit US or Canadian phone number can be registered for 10DLC messaging. Signalmash can port your existing business number in and enable SMS and MMS on it, so customers see the same number for calls and texts.\"}},{\"@type\":\"Question\",\"name\":\"How long does registration take?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Brand registration is usually instant to 24 hours. Campaign approval typically takes 2-7 business days depending on the use case and vetting level. Signalmash reviews your campaign before submission to avoid the most common rejection reasons.\"}},{\"@type\":\"Question\",\"name\":\"What if I don't register my number?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Unregistered 10DLC traffic is blocked or heavily filtered by US carriers, and fines can apply for non-compliant sending. Signalmash only routes registered messaging, which guarantees compliance and protects your brand reputation and deliverability.\"}},{\"@type\":\"Question\",\"name\":\"Do I need customer opt-ins?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Every 10DLC campaign must collect explicit, documented opt-in before the first message, include STOP and HELP instructions, and honour opt-outs immediately. Your opt-in flow is reviewed as part of campaign registration.\"}}]}"
+    }
+  ]
+}

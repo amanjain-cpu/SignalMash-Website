@@ -1,0 +1,113 @@
+{
+  "path": "/local-termination",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68d2ad5ee0a94d781843e4cd",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68d2ad5ee0a94d781843e4cd",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Local Termination | Clear, Cost-Effective Outbound Calling"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver reliable outbound calls through Signalmash’s direct carrier routes. Lower costs, better call quality, and nationwide coverage.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Local Termination | Clear, Cost-Effective Outbound Calling",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver reliable outbound calls through Signalmash’s direct carrier routes. Lower costs, better call quality, and nationwide coverage.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Local Termination | Clear, Cost-Effective Outbound Calling",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver reliable outbound calls through Signalmash’s direct carrier routes. Lower costs, better call quality, and nationwide coverage.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/local-termination",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

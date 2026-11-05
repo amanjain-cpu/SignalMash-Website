@@ -1,0 +1,113 @@
+{
+  "path": "/bcid-cnam",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68d6871b4212d6c968c90ddb",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68d6871b4212d6c968c90ddb",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "BCID: Branded Calling ID for Verified Calls | Signalmash"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "BCID branded calling ID from Signalmash displays your verified business name and logo on outbound calls, lifting answer rates and stopping spam labels.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "BCID: Branded Calling ID for Verified Calls | Signalmash",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "BCID branded calling ID from Signalmash displays your verified business name and logo on outbound calls, lifting answer rates and stopping spam labels.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "BCID: Branded Calling ID for Verified Calls | Signalmash",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "BCID branded calling ID from Signalmash displays your verified business name and logo on outbound calls, lifting answer rates and stopping spam labels.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/bcid-cnam",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

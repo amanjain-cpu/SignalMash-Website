@@ -1,0 +1,113 @@
+{
+  "path": "/mass-texting",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dbe8fc668cf489871fa0e5",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dbe8fc668cf489871fa0e5",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Mass Texting | Send Bulk Messages Fast & Compliantly"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach thousands instantly with Signalmash’s mass texting platform carrier-approved, easy to manage, and fully compliant.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Mass Texting | Send Bulk Messages Fast & Compliantly",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach thousands instantly with Signalmash’s mass texting platform carrier-approved, easy to manage, and fully compliant.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Mass Texting | Send Bulk Messages Fast & Compliantly",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Reach thousands instantly with Signalmash’s mass texting platform carrier-approved, easy to manage, and fully compliant.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/mass-texting",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

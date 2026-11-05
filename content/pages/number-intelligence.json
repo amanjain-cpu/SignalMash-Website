@@ -1,0 +1,120 @@
+{
+  "path": "/number-intelligence",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b815eb1f1eebc76a43e5a4",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b815eb1f1eebc76a43e5a4",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Phone Number Intelligence: Carrier, CNAM & DNC Lookup"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real-time phone number intelligence from Signalmash Query: line type, current carrier, CNAM and federal DNC status by API or portal, from $0.0013 per lookup.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Phone Number Intelligence: Carrier, CNAM & DNC Lookup",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real-time phone number intelligence from Signalmash Query: line type, current carrier, CNAM and federal DNC status by API or portal, from $0.0013 per lookup.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Phone Number Intelligence: Carrier, CNAM & DNC Lookup",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real-time phone number intelligence from Signalmash Query: line type, current carrier, CNAM and federal DNC status by API or portal, from $0.0013 per lookup.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/number-intelligence",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/number-intelligence#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is phone number intelligence?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A real-time lookup that returns what carrier databases know about a phone number: line type (mobile, landline, VoIP, toll-free), the current carrier after porting, the registered caller name (CNAM) and, in the US, whether the number is on the federal Do Not Call list. It is used to clean lists, choose routes, verify identities and stay compliant before a message or call is sent.\"}},{\"@type\":\"Question\",\"name\":\"Can a number lookup tell whether a number is VoIP or a cell phone?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Line type is derived from the carrier and number-block records, which identify wireless carriers, wireline carriers and VoIP providers. Numbers behind VoIP apps and virtual-number services are classified as VoIP, which is why many sign-up flows treat them as higher risk and ask for a second verification step.\"}},{\"@type\":\"Question\",\"name\":\"Is a DNC check enough for TCPA compliance?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. The National Do Not Call Registry governs telemarketing calls and texts to listed numbers, but the TCPA separately requires prior express written consent for marketing messages sent with an automated system, company-specific opt-outs, calling-hour limits and, for texts, 10DLC registration. Treat the DNC scrub as one mandatory step in a documented consent process.\"}},{\"@type\":\"Question\",\"name\":\"How accurate is carrier lookup for ported numbers?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Very accurate for US and Canadian numbers, because ports are recorded in the Number Portability Administration Center as they complete and lookups query that data rather than the original block owner. The exceptions are the first minutes after a port and numbers outside the US and Canada, where data quality varies by country.\"}},{\"@type\":\"Question\",\"name\":\"How much does a phone number lookup cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Signalmash prices lookups per query on usage-based plans: carrier lookup (LRN, carrier name and line type), federal DNC lookup and inbound CNAM query are each $0.0015 per query on the Launch and Growth plans and $0.0013 on the Scale plan.\"}}]}"
+    }
+  ]
+}

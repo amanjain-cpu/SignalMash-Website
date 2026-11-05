@@ -1,0 +1,123 @@
+{
+  "path": "/pricing",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b98177ca9a27f3cb15465f",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b98177ca9a27f3cb15465f",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {
+    "class": "body"
+  },
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Signalmash Pricing: SMS, Voice, Numbers & CPaaS Plans"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash pricing in full: SMS from $0.0039 per segment, voice from $0.0061 per minute, numbers from $0.50, short codes, lookups and 10DLC fees.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash Pricing: SMS, Voice, Numbers & CPaaS Plans",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash pricing in full: SMS from $0.0039 per segment, voice from $0.0061 per minute, numbers from $0.50, short codes, lookups and 10DLC fees.",
+        "property": "og:description"
+      }
+    },
+    {
+      "shared": "meta-og-image"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash Pricing: SMS, Voice, Numbers & CPaaS Plans",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash pricing in full: SMS from $0.0039 per segment, voice from $0.0061 per minute, numbers from $0.50, short codes, lookups and 10DLC fees.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/pricing",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "style",
+      "attrs": {},
+      "html": "\n@media (min-width: 300px) and (max-width: 767px) {\n  \n  .pricing-table-inner-box {\n    overflow-x: auto;\n    width: 100%;\n}\n.pricing-table-inner-box table {\n    min-width: 1100px;\n    width: 100%;\n}\n  \n}\n"
+    }
+  ]
+}

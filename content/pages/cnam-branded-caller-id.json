@@ -1,0 +1,127 @@
+{
+  "path": "/cnam-branded-caller-id",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b71705a01210738d37d8dd",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b71705a01210738d37d8dd",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Branded Caller ID & CNAM | Verified Business Calling"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Boost answer rates with branded caller ID. Signalmash authenticates your calls so customers instantly recognize your brand.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Branded Caller ID & CNAM | Verified Business Calling",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Boost answer rates with branded caller ID. Signalmash authenticates your calls so customers instantly recognize your brand.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Branded Caller ID & CNAM | Verified Business Calling",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Boost answer rates with branded caller ID. Signalmash authenticates your calls so customers instantly recognize your brand.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/cnam-branded-caller-id",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"Branded Caller ID & CNAM\",\"serviceType\":\"Branded Caller ID & CNAM\",\"url\":\"https://signalmash.com/cnam-branded-caller-id\",\"description\":\"Branded Caller ID and CNAM services that display your verified business name and logo on outbound calls to lift answer rates.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Branded Caller ID & CNAM\",\"item\":\"https://signalmash.com/cnam-branded-caller-id\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/cnam-branded-caller-id#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Branded Caller ID the same as CNAM?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. CNAM typically shows a 15-character name. Branded Caller ID extends this with verified branding: your logo, company name, and even a call reason.\"}},{\"@type\":\"Question\",\"name\":\"Can I choose any name for outbound CNAM?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"There are compliance rules and character limits. Typically, you can display your legal name or DBA (Doing Business As). Signalmash guides you through setup for accuracy.\"}},{\"@type\":\"Question\",\"name\":\"Do inbound CNAM queries work internationally?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Inbound CNAM is mainly supported in the U.S., with some availability in Canada. International coverage varies by carrier and region.\"}},{\"@type\":\"Question\",\"name\":\"How often do carriers update CNAM databases?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Updates usually take a few days, but timing depends on the carrier. Once you set up CNAM with Signalmash, we handle synchronization across major databases.\"}},{\"@type\":\"Question\",\"name\":\"Do I need special hardware to enable CNAM or Branded Caller ID?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Caller branding happens at the network level with Signalmash. No additional equipment is required.\"}},{\"@type\":\"Question\",\"name\":\"Do Branded Caller ID and CNAM have the same reach?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. CNAM is only visible to handset users who subscribe to caller ID services, mostly on landlines. Branded Caller ID is broader: it is supported on iOS, Android and Samsung devices across T-Mobile, Verizon and AT&T, and reaches the majority of US mobile subscribers.\"}},{\"@type\":\"Question\",\"name\":\"How do I stop my business calls being marked Scam Likely?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Register your numbers with the carrier analytics providers, keep calling patterns consistent, use STIR/SHAKEN A-level attestation and monitor your number reputation. Signalmash's Number Intelligence service registers and remediates flagged numbers for you.\"}},{\"@type\":\"Question\",\"name\":\"How long does Branded Caller ID take to set up?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Business vetting and number registration typically take 5-10 business days. After approval your name and logo appear on supported iPhone and Android devices on all major US carriers, and changes to branding are usually reflected within 24-48 hours.\"}},{\"@type\":\"Question\",\"name\":\"What is Branded Caller ID?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Branded Caller ID (BCID) displays your verified business name, logo and call reason on the recipient's phone for outbound calls, backed by STIR/SHAKEN authentication. It replaces plain CNAM text and typically lifts answer rates by 30-40%.\"}},{\"@type\":\"Question\",\"name\":\"What is CNAM and how is it different from Branded Caller ID?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"CNAM is the 15-character caller name stored in carrier databases and shown on landlines and some mobile phones. Branded Caller ID is a newer, verified display that adds your logo and call reason on mobile devices. Signalmash provisions both from one dashboard.\"}}]}"
+    }
+  ]
+}

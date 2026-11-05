@@ -1,0 +1,115 @@
+{
+  "path": "/post/the-science-behind-digital-fatigue-why-does-it-happen",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "the-science-behind-digital-fatigue-why-does-it-happen"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "The Science Behind Digital Fatigue: Why It Happens"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital fatigue has pushed 47% of consumers to seek downtime from devices. Learn what causes it, how it affects engagement, and what brands should do.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "The Science Behind Digital Fatigue: Why It Happens",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital fatigue has pushed 47% of consumers to seek downtime from devices. Learn what causes it, how it affects engagement, and what brands should do.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "The Science Behind Digital Fatigue: Why It Happens",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital fatigue has pushed 47% of consumers to seek downtime from devices. Learn what causes it, how it affects engagement, and what brands should do.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/the-science-behind-digital-fatigue-why-does-it-happen",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "path": "/alerts-and-notifications",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dbfa2ed094eabfcf5d5739",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dbfa2ed094eabfcf5d5739",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS Alerts & Notifications | Real-Time Business Messaging"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver critical updates instantly with automated SMS alerts. Reliable, high-speed notifications powered by Signalmash APIs.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS Alerts & Notifications | Real-Time Business Messaging",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver critical updates instantly with automated SMS alerts. Reliable, high-speed notifications powered by Signalmash APIs.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS Alerts & Notifications | Real-Time Business Messaging",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver critical updates instantly with automated SMS alerts. Reliable, high-speed notifications powered by Signalmash APIs.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/alerts-and-notifications",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

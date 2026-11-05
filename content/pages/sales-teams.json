@@ -1,0 +1,113 @@
+{
+  "path": "/sales-teams",
+  "query": null,
+  "status": 200,
+  "wfPageId": "69187f923ae507b7b62344f8",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "69187f923ae507b7b62344f8",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS & Voice for Sales Teams | Close Deals Faster"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Follow up in seconds, not hours. Signalmash gives sales teams compliant two-way texting and calling that turns leads into booked meetings.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS & Voice for Sales Teams | Close Deals Faster",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Follow up in seconds, not hours. Signalmash gives sales teams compliant two-way texting and calling that turns leads into booked meetings.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS & Voice for Sales Teams | Close Deals Faster",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Follow up in seconds, not hours. Signalmash gives sales teams compliant two-way texting and calling that turns leads into booked meetings.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/sales-teams",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

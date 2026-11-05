@@ -1,0 +1,130 @@
+{
+  "path": "/text-messaging",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68d2904c0beb3e1adaf4a6ed",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68d2904c0beb3e1adaf4a6ed",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS & MMS Messaging API | Build Powerful Messaging"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Integrate SMS and MMS into any app using SignalMash’s fast, reliable API. Deliver messages at scale with carrier-grade compliance and uptime.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS & MMS Messaging API | Build Powerful Messaging",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Integrate SMS and MMS into any app using SignalMash’s fast, reliable API. Deliver messages at scale with carrier-grade compliance and uptime.",
+        "property": "og:description"
+      }
+    },
+    {
+      "shared": "meta-og-image"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SMS & MMS Messaging API | Build Powerful Messaging",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Integrate SMS and MMS into any app using SignalMash’s fast, reliable API. Deliver messages at scale with carrier-grade compliance and uptime.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/text-messaging",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"SMS & MMS Messaging API\",\"serviceType\":\"SMS & MMS Messaging API\",\"url\":\"https://signalmash.com/text-messaging\",\"description\":\"Carrier-grade SMS and MMS messaging API for US businesses: 10DLC, toll-free and short code sending with compliance support and transparent pricing.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SMS & MMS Messaging API\",\"item\":\"https://signalmash.com/text-messaging\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/text-messaging#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is an SMS API?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"An SMS API lets your application send and receive text messages programmatically over carrier networks. Signalmash's REST API supports SMS and MMS on 10DLC, toll-free and short code numbers, with delivery receipts, inbound webhooks and compliance handling built in.\"}},{\"@type\":\"Question\",\"name\":\"How much does business SMS cost with Signalmash?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Signalmash prices SMS on a single all-inclusive rate with no hidden carrier surcharges, and local 10DLC numbers start at $0.50 per month. Current per-message rates for SMS, MMS and RCS are listed on the pricing page, with volume discounts for high-volume senders.\"}},{\"@type\":\"Question\",\"name\":\"Do I need 10DLC registration to send business texts?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. US carriers require any business sending application-to-person SMS from a 10-digit local number to register its brand and campaign with The Campaign Registry. Signalmash completes the registration for you, typically within a few business days.\"}},{\"@type\":\"Question\",\"name\":\"Which number type should I use: 10DLC, toll-free or short code?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use 10DLC for conversational and moderate-volume messaging from a local number, toll-free for nationwide notifications without campaign registration, and a short code when you need the highest throughput and deliverability for OTPs, alerts or mass marketing.\"}}]}"
+    }
+  ]
+}

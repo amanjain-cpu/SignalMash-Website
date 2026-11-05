@@ -1,0 +1,130 @@
+{
+  "path": "/sip-trunking",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68d29bf10c8fe56c49f9b464",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68d29bf10c8fe56c49f9b464",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SIP Trunking: Per-Minute Pricing, PRI & Carrier Comparison"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash SIP trunking with direct Tier-1 carrier access: published per-minute rates, SIP vs PRI vs hosted VoIP, cable and ILEC trunk comparison, sizing and go-live checklist.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SIP Trunking: Per-Minute Pricing, PRI & Carrier Comparison",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash SIP trunking with direct Tier-1 carrier access: published per-minute rates, SIP vs PRI vs hosted VoIP, cable and ILEC trunk comparison, sizing and go-live checklist.",
+        "property": "og:description"
+      }
+    },
+    {
+      "shared": "meta-og-image"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SIP Trunking: Per-Minute Pricing, PRI & Carrier Comparison",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash SIP trunking with direct Tier-1 carrier access: published per-minute rates, SIP vs PRI vs hosted VoIP, cable and ILEC trunk comparison, sizing and go-live checklist.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/sip-trunking",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"SIP Trunking\",\"serviceType\":\"SIP Trunking\",\"url\":\"https://signalmash.com/sip-trunking\",\"description\":\"Elastic SIP trunking with direct Tier-1 carrier access, crystal-clear voice, elastic scaling and competitive per-minute pricing.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SIP Trunking\",\"item\":\"https://signalmash.com/sip-trunking\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/sip-trunking#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is a trunk group?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A trunk group is a collection of SIP trunks that manage call traffic. With Signalmash, you can organize and optimize trunk groups for better reliability and cost control.\"}},{\"@type\":\"Question\",\"name\":\"Why do my calls show as 'Scam Likely'?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Caller ID reputation matters. Signalmash helps you register and authenticate calls with STIR/SHAKEN and branded caller ID to ensure your business calls get answered.\"}},{\"@type\":\"Question\",\"name\":\"What if my internet goes down?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We provide automatic failover and call forwarding to keep your business reachable at all times.\"}},{\"@type\":\"Question\",\"name\":\"What is elastic SIP trunking?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Elastic SIP trunking connects your PBX or contact center to the phone network over the internet with capacity that scales up and down automatically, so you pay per minute instead of for fixed channels. Signalmash routes calls over direct Tier-1 carrier connections for call quality.\"}},{\"@type\":\"Question\",\"name\":\"How much does SIP trunking cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Signalmash SIP trunking is billed per minute with no per-channel fees or setup charges, and inbound and outbound rates are published on the pricing page. Most businesses reduce voice costs by 30-50% compared with legacy PRI circuits or per-seat UCaaS bundles.\"}},{\"@type\":\"Question\",\"name\":\"Does Signalmash SIP trunking support STIR/SHAKEN and E911?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. All outbound calls are signed with full STIR/SHAKEN attestation, and every number can be provisioned with E911 address registration. CNAM, number porting, call recording and real-time CDRs are available from the same portal or API.\"}},{\"@type\":\"Question\",\"name\":\"Which PBX and softswitch platforms work with Signalmash?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Any SIP-compliant system works, including Asterisk, FreePBX, FreeSWITCH, 3CX, Cisco CUCM, Microsoft Teams Direct Routing via an SBC, and cloud contact center platforms. Signalmash provides configuration guides and engineer-led onboarding for each.\"}}]}"
+    }
+  ]
+}

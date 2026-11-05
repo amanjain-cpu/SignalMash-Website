@@ -1,0 +1,115 @@
+{
+  "path": "/post/explore-the-evolution-from-cnam-to-branded-caller-id-bcid-how-stir-shaken-and-industry-leaders-are-rebuild-trust-in-voice-calls",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb4266bbcc2ff63eeab32",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb4266bbcc2ff63eeab32",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb4266bbcc2ff63eeab1e",
+    "data-wf-item-slug": "explore-the-evolution-from-cnam-to-branded-caller-id-bcid-how-stir-shaken-and-industry-leaders-are-rebuild-trust-in-voice-calls"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "From CNAM to Branded Caller ID: Rebuilding Trust in Calls"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore the evolution from CNAM to Branded Caller ID (BCID), and how STIR/SHAKEN and industry leaders are rebuilding consumer trust in voice calls.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "From CNAM to Branded Caller ID: Rebuilding Trust in Calls",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore the evolution from CNAM to Branded Caller ID (BCID), and how STIR/SHAKEN and industry leaders are rebuilding consumer trust in voice calls.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "From CNAM to Branded Caller ID: Rebuilding Trust in Calls",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore the evolution from CNAM to Branded Caller ID (BCID), and how STIR/SHAKEN and industry leaders are rebuilding consumer trust in voice calls.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/post/explore-the-evolution-from-cnam-to-branded-caller-id-bcid-how-stir-shaken-and-industry-leaders-are-rebuild-trust-in-voice-calls",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

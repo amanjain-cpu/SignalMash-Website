@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 359 356.5" style="enable-background:new 0 0 359 356.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:none;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'Roboto-Light';}
+	.st5{font-size:76.2788px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.9316;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{font-family:'Roboto-Regular';}
+	.st8{font-size:19.7922px;}
+	.st9{fill:#231F20;}
+	.st10{font-family:'MyriadPro-Regular';}
+	.st11{font-size:26.7826px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="353.9898" y1="178.5102" x2="5.0102" y2="178.5102">
+	<stop  offset="0" style="stop-color:#2161AD"/>
+	<stop  offset="0.1797" style="stop-color:#206AB3"/>
+	<stop  offset="0.4727" style="stop-color:#1C82C5"/>
+	<stop  offset="0.8404" style="stop-color:#17AAE1"/>
+	<stop  offset="1" style="stop-color:#14BDEF"/>
+</linearGradient>
+<circle class="st0" cx="179.5" cy="178.5" r="174.5"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="44.098" y1="178.5102" x2="314.902" y2="178.5102">
+	<stop  offset="0" style="stop-color:#2161AD"/>
+	<stop  offset="0.1797" style="stop-color:#206AB3"/>
+	<stop  offset="0.4727" style="stop-color:#1C82C5"/>
+	<stop  offset="0.8404" style="stop-color:#17AAE1"/>
+	<stop  offset="1" style="stop-color:#14BDEF"/>
+</linearGradient>
+<circle class="st1" cx="179.5" cy="178.5" r="135.4"/>
+<path id="SVGID_x5F_3_x5F_" class="st2" d="M339.6,178.5c0-88.4-71.7-160.1-160.1-160.1S19.4,90.1,19.4,178.5
+	s71.7,160.1,160.1,160.1S339.6,266.9,339.6,178.5z"/>
+<text><textPath  xlink:href="#SVGID_x5F_3_x5F_" startOffset="14482.9629%">
+<tspan  class="st3 st4" style="font-size:17.0223px;">SOC for Service Organizations  |  </tspan><tspan  class="st3" style="font-family:'Roboto-Medium'; font-size:17.0223px;">Service Organizations</tspan></textPath>
+</text>
+<g>
+	<text transform="matrix(1 0 0 1 77.8124 155.3276)"><tspan x="0" y="0" class="st3 st4 st5">AICPA</tspan><tspan x="32.1" y="88.1" class="st3 st4 st5">SOC</tspan></text>
+	<line class="st6" x1="79.8" y1="172.9" x2="286.5" y2="172.9"/>
+</g>
+<text transform="matrix(1 0 0 1 105.8119 274.8052)" class="st3 st7 st8">aicpa.org/soc4so</text>
+<text transform="matrix(1 0 0 1 320.3746 334.0314)" class="st9 st10 st11">™</text>
+</svg>

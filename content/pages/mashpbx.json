@@ -1,0 +1,113 @@
+{
+  "path": "/mashpbx",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68badcb0bb2aa6e1b3e2fd86",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68badcb0bb2aa6e1b3e2fd86",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "MashPBX | Cloud PBX & UCaaS for Business Voice"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Replace legacy systems with cloud-based PBX and UCaaS. Signalmash's MashPbx offers scalable, feature-rich voice solutions for modern teams.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "MashPBX | Cloud PBX & UCaaS for Business Voice",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Replace legacy systems with cloud-based PBX and UCaaS. Signalmash's MashPbx offers scalable, feature-rich voice solutions for modern teams.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "MashPBX | Cloud PBX & UCaaS for Business Voice",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Replace legacy systems with cloud-based PBX and UCaaS. Signalmash's MashPbx offers scalable, feature-rich voice solutions for modern teams.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/mashpbx",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "path": "/hashtags/digital-divide",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfb19f4a5b33d33e8a8d49",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfb19f4a5b33d33e8a8d49",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68dfb19e4a5b33d33e8a8d3c",
+    "data-wf-item-slug": "digital-divide"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Digital Divide Articles & Insights | Signalmash Blog"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital divide coverage: connectivity gaps, broadband and mobile access in underserved communities, why SMS still reaches people that apps do not, and how technology companies and nonprofits can close the gap. These articles look at communications access as an equity issue, not just an infrastructure one.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital Divide Articles & Insights | Signalmash Blog",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital divide coverage: connectivity gaps, broadband and mobile access in underserved communities, why SMS still reaches people that apps do not, and how technology companies and nonprofits can close the gap. These articles look at communications access as an equity issue, not just an infrastructure one.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital Divide Articles & Insights | Signalmash Blog",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Digital divide coverage: connectivity gaps, broadband and mobile access in underserved communities, why SMS still reaches people that apps do not, and how technology companies and nonprofits can close the gap. These articles look at communications access as an equity issue, not just an infrastructure one.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/hashtags/digital-divide",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "shared": "finsweet-attributes"
+    },
+    {
+      "shared": "finsweet-active-style"
+    }
+  ]
+}

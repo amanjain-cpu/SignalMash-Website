@@ -1,0 +1,138 @@
+{
+  "meta-og-type": {
+    "tag": "meta",
+    "attrs": {
+      "property": "og:type",
+      "content": "website"
+    }
+  },
+  "meta-twitter-card": {
+    "tag": "meta",
+    "attrs": {
+      "content": "summary_large_image",
+      "name": "twitter:card"
+    }
+  },
+  "stylesheet-noahs-fantabulous-site-a2251e": {
+    "tag": "link",
+    "attrs": {
+      "href": "/cdn/68a3572908cc6b1214445ee3/css/noahs-fantabulous-site-a2251e.webflow.shared.8ef158e40.min.css",
+      "rel": "stylesheet",
+      "type": "text/css"
+    }
+  },
+  "link-preconnect-fonts-googleapis-com": {
+    "tag": "link",
+    "attrs": {
+      "href": "https://fonts.googleapis.com",
+      "rel": "preconnect"
+    }
+  },
+  "link-preconnect-fonts-gstatic-com": {
+    "tag": "link",
+    "attrs": {
+      "href": "https://fonts.gstatic.com",
+      "rel": "preconnect",
+      "crossorigin": "anonymous"
+    }
+  },
+  "google-fonts-loader": {
+    "tag": "script",
+    "attrs": {
+      "src": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "type": "text/javascript"
+    },
+    "html": ""
+  },
+  "google-fonts": {
+    "tag": "script",
+    "attrs": {
+      "type": "text/javascript"
+    },
+    "html": "WebFont.load({  google: {    families: [\"Plus Jakarta Sans:300,400,500,600,700\",\"Poppins:300,400,500,600,700\",\"Roboto:300,400,500,600,700\"]  }});"
+  },
+  "webflow-js-detect": {
+    "tag": "script",
+    "attrs": {
+      "type": "text/javascript"
+    },
+    "html": "!function(o,c){var n=c.documentElement,t=\" w-mod-\";n.className+=t+\"js\",(\"ontouchstart\"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+\"touch\")}(window,document);"
+  },
+  "link-shortcut-icon-32x32-png": {
+    "tag": "link",
+    "attrs": {
+      "href": "/cdn/68a3572908cc6b1214445ee3/68f67f2d03c77b0bb919e4af_signalmash_logo_only_32x32.png",
+      "rel": "shortcut icon",
+      "type": "image/x-icon"
+    }
+  },
+  "link-apple-touch-icon-webclip-png": {
+    "tag": "link",
+    "attrs": {
+      "href": "/cdn/68a3572908cc6b1214445ee3/68f383f5a71aebd3f9932f82_Webclip.png",
+      "rel": "apple-touch-icon"
+    }
+  },
+  "google-tag-manager": {
+    "tag": "script",
+    "attrs": {},
+    "html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5VJ5QJX');"
+  },
+  "google-analytics-loader": {
+    "tag": "script",
+    "attrs": {
+      "async": "",
+      "src": "https://www.googletagmanager.com/gtag/js?id=G-6W5VWT6DEL"
+    },
+    "html": ""
+  },
+  "google-analytics-config": {
+    "tag": "script",
+    "attrs": {},
+    "html": "\n  window.dataLayer = window.dataLayer || [];\n  function gtag() {\n    dataLayer.push(arguments);\n  }\n  gtag('js', new Date());\n\n  gtag('config', 'G-6W5VWT6DEL');\n"
+  },
+  "reb2b-visitor-id": {
+    "tag": "script",
+    "attrs": {},
+    "html": "\n  !(function (key) {\n    if (window.reb2b) return;\n    window.reb2b = { loaded: true };\n    var s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://b2bjsstore.s3.us-west-2.amazonaws.com/b/' + key + '/' + key + '.js.gz';\n    document.getElementsByTagName('script')[0].parentNode.insertBefore(s, document.getElementsByTagName('script')[0]);\n  })('QOQRJHYPKR62');\n"
+  },
+  "organization-schema": {
+    "tag": "script",
+    "attrs": {
+      "type": "application/ld+json"
+    },
+    "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://signalmash.com/#organization\",\"name\":\"Signalmash\",\"legalName\":\"Mash Technologies Corporation\",\"alternateName\":[\"Signal Mash\",\"Mash Technologies\"],\"url\":\"https://signalmash.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"{{SITE_URL}}/cdn/68a3572908cc6b1214445ee3/68f9032823611c6fafc614cf_Group%2030.webp\"},\"description\":\"Signalmash is a boutique CPaaS (communications platform as a service) that gives businesses carrier-grade SMS, MMS, RCS, voice, SIP trunking, phone numbers and Branded Caller ID through simple APIs and hands-on human support.\",\"founder\":[{\"@type\":\"Person\",\"name\":\"Noah Kamrat\",\"jobTitle\":\"Co-Founder & CEO\",\"sameAs\":\"https://www.linkedin.com/in/noahkamrat/\"},{\"@type\":\"Person\",\"name\":\"Eric Engbers\",\"jobTitle\":\"Co-Founder\"}],\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"3000 NE Stucki Ave, Ste 230\",\"addressLocality\":\"Hillsboro\",\"addressRegion\":\"OR\",\"postalCode\":\"97124\",\"addressCountry\":\"US\"},\"telephone\":\"+1-866-217-9750\",\"email\":\"hello@signalmash.com\",\"contactPoint\":[{\"@type\":\"ContactPoint\",\"telephone\":\"+1-866-217-9750\",\"contactType\":\"sales\",\"areaServed\":\"US\",\"availableLanguage\":\"English\"},{\"@type\":\"ContactPoint\",\"telephone\":\"+1-971-369-7740\",\"contactType\":\"customer support\",\"areaServed\":\"US\",\"availableLanguage\":\"English\",\"url\":\"https://support.signalmash.com/\"}],\"sameAs\":[\"https://www.linkedin.com/company/signalmash\",\"https://twitter.com/signalmash\",\"https://www.instagram.com/signalmash\",\"https://www.facebook.com/signalmashhq\",\"https://www.crunchbase.com/organization/signalmash\",\"https://sourceforge.net/software/product/Signalmash/\"],\"knowsAbout\":[\"CPaaS\",\"SMS API\",\"10DLC registration\",\"Toll-free messaging\",\"Short codes\",\"RCS business messaging\",\"SIP trunking\",\"Branded Caller ID\",\"CNAM\",\"STIR/SHAKEN\",\"A2P messaging compliance\"],\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"brand\":[{\"@type\":\"Brand\",\"name\":\"SimplyRCS\",\"url\":\"https://simplyrcs.ai/\"},{\"@type\":\"Brand\",\"name\":\"MashPBX\",\"url\":\"https://signalmash.com/mashpbx\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://signalmash.com/#website\",\"url\":\"https://signalmash.com/\",\"name\":\"Signalmash\",\"publisher\":{\"@id\":\"https://signalmash.com/#organization\"},\"inLanguage\":\"en-US\"}]}"
+  },
+  "schema-text-fix": {
+    "tag": "script",
+    "attrs": {},
+    "html": "\n(function(){function fix(){var b=document.body;if(!b)return false;var n=b.firstChild;while(n&&n.nodeType===3&&/^\\s*\\{/.test(n.textContent)&&n.textContent.indexOf('schema.org')>-1){var t=document.createElement('textarea');t.innerHTML=n.textContent;var s=document.createElement('script');s.type='application/ld+json';s.textContent=t.value;b.removeChild(n);document.head.appendChild(s);n=b.firstChild;}return true;}if(!fix()){var o=new MutationObserver(function(){if(fix()){o.disconnect();}});o.observe(document.documentElement,{childList:true,subtree:true});}document.addEventListener('DOMContentLoaded',fix);})();\n"
+  },
+  "pagination-seo": {
+    "tag": "script",
+    "attrs": {},
+    "html": "\n(function(){var m=location.search.match(/[?&][0-9a-f]+_page=(\\d+)/);if(!m)return;var n=m[1];function run(){if(document.title.indexOf(' | Page ')===-1){document.title=document.title+' | Page '+n;}var d=document.querySelector('meta[name=\"description\"]');if(d&&d.content.indexOf('Page '+n)===-1){d.content='Page '+n+' of '+d.content;}var og=document.querySelector('meta[property=\"og:title\"]');if(og&&og.content.indexOf(' | Page ')===-1){og.content=og.content+' | Page '+n;}}run();document.addEventListener('DOMContentLoaded',run);})();\n"
+  },
+  "meta-og-image": {
+    "tag": "meta",
+    "attrs": {
+      "content": "{{SITE_URL}}/cdn/68a3572908cc6b1214445ee3/68f9032823611c6fafc614cf_Group%2030.webp",
+      "property": "og:image"
+    }
+  },
+  "finsweet-attributes": {
+    "tag": "script",
+    "attrs": {
+      "async": "",
+      "type": "module",
+      "src": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js",
+      "fs-list": ""
+    },
+    "html": ""
+  },
+  "finsweet-active-style": {
+    "tag": "style",
+    "attrs": {},
+    "html": "\nlabel.is-list-active {\n    color: #1984bb;\n}\n"
+  }
+}

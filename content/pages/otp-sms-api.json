@@ -1,0 +1,120 @@
+{
+  "path": "/otp-sms-api",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6a99ce646b8f37c179ed2c8f",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6a99ce646b8f37c179ed2c8f",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "OTP SMS API: Send and Verify One-Time Passcodes | Signalmash"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send one-time passcodes by SMS or voice call and verify them with three REST calls: /sendotpbysms, /sendotpbycall and /verifyotp. curl, Python and Node examples, built on Signalmash Verifier.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "OTP SMS API: Send and Verify One-Time Passcodes | Signalmash",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send one-time passcodes by SMS or voice call and verify them with three REST calls: /sendotpbysms, /sendotpbycall and /verifyotp. curl, Python and Node examples, built on Signalmash Verifier.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "OTP SMS API: Send and Verify One-Time Passcodes | Signalmash",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Send one-time passcodes by SMS or voice call and verify them with three REST calls: /sendotpbysms, /sendotpbycall and /verifyotp. curl, Python and Node examples, built on Signalmash Verifier.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/otp-sms-api",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"Signalmash OTP SMS API\",\"serviceType\":\"One-time passcode verification API\",\"provider\":{\"@id\":\"https://signalmash.com/#organization\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"description\":\"REST API for sending one-time passcodes by SMS or voice call and verifying them, built on Signalmash Verifier. Three form-encoded endpoints: /sendotpbysms, /sendotpbycall and /verifyotp.\",\"url\":\"https://signalmash.com/otp-sms-api\"},{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How do I send a one-time passcode by SMS with the Signalmash API?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"POST to https://api.signalmash.com/sendotpbysms with your token in the Authorization header and a form-encoded body containing FROM (your Signalmash number), TO (the recipient) and TemplateKey (the message template the code is inserted into). A 200 response means the code was sent. Keep the session identifier from the response for the verify step.\"}},{\"@type\":\"Question\",\"name\":\"How do I verify the code the user typed?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"POST to https://api.signalmash.com/verifyotp with OTP (what the user entered) and SessionId (from the send). A 200 response means the code was correct and still valid. Expired codes fail automatically, so on any other response offer the user a fresh code rather than retrying the old one.\"}},{\"@type\":\"Question\",\"name\":\"Can I deliver the passcode by voice call instead of SMS?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. POST to /sendotpbycall with FROM, TO and the boolean Template field, and Signalmash reads the code out over a phone call. It suits landlines, slow carriers and users who ask to be called, and works best as a fallback offered after the first SMS attempt.\"}},{\"@type\":\"Question\",\"name\":\"Do I have to generate or store the OTP myself?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Signalmash Verifier generates an encrypted passcode tied to the user session, delivers it and expires it after the window configured on your account, typically 30 seconds to a few minutes. Your application only passes the user's input to /verifyotp.\"}},{\"@type\":\"Question\",\"name\":\"Does OTP traffic need 10DLC registration in the US?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. One-time passcodes sent from a US local number are A2P traffic and need an A2P 10DLC brand and campaign with a two-factor-authentication use case; toll-free numbers need toll-free verification instead. Signalmash completes that registration as part of onboarding.\"}}]}]}"
+    }
+  ]
+}

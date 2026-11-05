@@ -1,0 +1,113 @@
+{
+  "path": "/for-complementary-technology-providers-and-isvs",
+  "query": null,
+  "status": 200,
+  "wfPageId": "69187f14d0a696e7e11ac823",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "69187f14d0a696e7e11ac823",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "For Complementary Technology Providers and ISVs"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Embed messaging and voice into your platform. Signalmash partners with ISVs and technology providers with revenue share and full compliance support.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "For Complementary Technology Providers and ISVs",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Embed messaging and voice into your platform. Signalmash partners with ISVs and technology providers with revenue share and full compliance support.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "For Complementary Technology Providers and ISVs",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Embed messaging and voice into your platform. Signalmash partners with ISVs and technology providers with revenue share and full compliance support.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/for-complementary-technology-providers-and-isvs",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

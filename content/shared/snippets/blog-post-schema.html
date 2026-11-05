@@ -1,0 +1,48 @@
+<script>
+(function(){
+  if (location.pathname.indexOf('/post/') !== 0) return;
+  var rt = document.querySelector('.w-richtext');
+  if (!rt) return;
+  function txt(el){ return (el.textContent||'').replace(/[​‍﻿]/g,'').replace(/\s+/g,' ').trim(); }
+  function inject(obj){
+    var s=document.createElement('script'); s.type='application/ld+json';
+    s.text=JSON.stringify(obj); document.head.appendChild(s);
+  }
+  // 1. BlogPosting with speakable (quick answer = first h2 + first p in the rich text)
+  var h1=document.querySelector('h1');
+  var metaDesc=document.querySelector('meta[name="description"]');
+  var og=document.querySelector('meta[property="og:image"]');
+  var pub=document.querySelector('meta[property="article:published_time"]');
+  var post={
+    "@context":"https://schema.org","@type":"BlogPosting",
+    "headline": h1?txt(h1):document.title,
+    "description": metaDesc?metaDesc.content:"",
+    "mainEntityOfPage": location.origin+location.pathname,
+    "url": location.origin+location.pathname,
+    "inLanguage":"en-US",
+    "author":{"@type":"Organization","name":"Signalmash","url":"https://www.signalmash.com/"},
+    "publisher":{"@type":"Organization","name":"Signalmash","url":"https://www.signalmash.com/",
+      "logo":{"@type":"ImageObject","url":"/cdn/68a3572908cc6b1214445ee3/68f9032823611c6fafc614cf_Group%2030.webp"}},
+    "speakable":{"@type":"SpeakableSpecification","cssSelector":[".w-richtext > h2:first-of-type",".w-richtext > h2:first-of-type + p"]}
+  };
+  if (og && og.content) post.image=og.content;
+  if (pub && pub.content) post.datePublished=pub.content;
+  var lm=document.querySelector('meta[property="article:modified_time"]');
+  if (lm && lm.content) post.dateModified=lm.content;
+  inject(post);
+  // 2. FAQPage from "People also ask" (h2 > h3/p pairs) and "Frequently asked questions" (h5/p pairs)
+  var qa=[]; var kids=rt.children; var mode=null;
+  for (var i=0;i<kids.length;i++){
+    var el=kids[i], tag=el.tagName;
+    if (tag==='H2'){ var t=txt(el).toLowerCase(); mode=(t.indexOf('people also ask')===0||t.indexOf('frequently asked')===0)?'faq':null; continue; }
+    if (mode!=='faq') continue;
+    if (tag==='H3'||tag==='H4'||tag==='H5'||(tag==='P'&&el.querySelector('strong')&&txt(el).slice(-1)==='?'&&txt(el).length<160)){
+      var q=txt(el), a=[], j=i+1;
+      while (j<kids.length && kids[j].tagName==='P'){ var pt=txt(kids[j]); if (pt) a.push(pt); if (a.length>=2) break; j++; }
+      if (q && a.length && q.slice(-1)==='?') qa.push({"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a.join(' ')}});
+      i=j-1;
+    }
+  }
+  if (qa.length) inject({"@context":"https://schema.org","@type":"FAQPage","mainEntity":qa});
+})();
+</script>

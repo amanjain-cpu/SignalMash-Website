@@ -1,0 +1,113 @@
+{
+  "path": "/short-code-numbers",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b845ba53b8d4d16b218776",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b845ba53b8d4d16b218776",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Short Code Numbers | Scale Messaging Campaigns"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Launch high-volume text campaigns faster. Signalmash helps you secure and activate dedicated short code numbers with carrier-grade compliance.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Short Code Numbers | Scale Messaging Campaigns",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Launch high-volume text campaigns faster. Signalmash helps you secure and activate dedicated short code numbers with carrier-grade compliance.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Short Code Numbers | Scale Messaging Campaigns",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Launch high-volume text campaigns faster. Signalmash helps you secure and activate dedicated short code numbers with carrier-grade compliance.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/short-code-numbers",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

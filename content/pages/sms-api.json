@@ -1,0 +1,86 @@
+{
+  "path": "/sms-api",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6a99b8105882813a0e6a2c09",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6a99b8105882813a0e6a2c09",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS API for Developers: Send Texts in One POST"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Signalmash SMS API: one authenticated POST to send SMS or MMS to US numbers, with curl, Python, Node and PHP examples, webhooks, RCS on the same API, and 10DLC handled for you.",
+        "name": "description"
+      }
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/sms-api",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"Signalmash SMS API\",\"serviceType\":\"SMS API\",\"provider\":{\"@id\":\"https://signalmash.com/#organization\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"description\":\"REST SMS and MMS API for US business messaging. One authenticated POST sends a message; A2P 10DLC brand and campaign registration is handled by Signalmash rather than left to the developer.\",\"url\":\"https://signalmash.com/sms-api\"},{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How do I send an SMS with the Signalmash API?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Send a POST to https://api.signalmash.com/messages with your token in the Authorization header and a multipart/form-data body containing FROM, TO and BODY. A 201 response means the message was accepted for delivery. Adding an ATTACHMENT file part sends it as an MMS instead.\"}},{\"@type\":\"Question\",\"name\":\"How does authentication work on the Signalmash SMS API?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Each request carries a token in the Authorization header. Tokens are created in the portal under API then Tokens, and each token can be scoped to specific functions, so you can issue one per integration and rotate them independently.\"}},{\"@type\":\"Question\",\"name\":\"Do I need an SDK to use an SMS API?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. The Signalmash API is plain HTTPS with multipart form fields, so any language that can make an HTTP request can send a message. curl, Python requests, the Node fetch API and PHP cURL all work without a client library.\"}},{\"@type\":\"Question\",\"name\":\"Does the SMS API handle 10DLC registration?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Signalmash completes the A2P 10DLC brand and campaign registration for customers and manages resubmissions if a campaign is rejected, as part of onboarding. 10DLC itself is a US carrier requirement that applies to every provider, but most leave the registration work to the developer.\"}},{\"@type\":\"Question\",\"name\":\"How do I receive inbound SMS and delivery receipts?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Subscribe a webhook endpoint with PUT /webhookSubscription. Inbound messages and delivery events are posted to it. Treat the 201 from a send as accepted rather than delivered, and use the delivery event as the source of truth.\"}}]}]}"
+    }
+  ]
+}

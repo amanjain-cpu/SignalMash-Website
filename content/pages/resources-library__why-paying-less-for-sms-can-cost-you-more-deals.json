@@ -1,0 +1,115 @@
+{
+  "path": "/resources-library/why-paying-less-for-sms-can-cost-you-more-deals",
+  "query": null,
+  "status": 200,
+  "wfPageId": "695fc500e4db2651a97b26e9",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "695fc500e4db2651a97b26e9",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "695fc500e4db2651a97b26e2",
+    "data-wf-item-slug": "why-paying-less-for-sms-can-cost-you-more-deals"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Why Paying Less for SMS Can Cost You More Deals"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Discover why choosing the cheapest SMS provider can hurt deliverability and deal flow, and what reliable, compliant messaging costs versus what it saves.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Paying Less for SMS Can Cost You More Deals",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Discover why choosing the cheapest SMS provider can hurt deliverability and deal flow, and what reliable, compliant messaging costs versus what it saves.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Why Paying Less for SMS Can Cost You More Deals",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Discover why choosing the cheapest SMS provider can hurt deliverability and deal flow, and what reliable, compliant messaging costs versus what it saves.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/resources-library/why-paying-less-for-sms-can-cost-you-more-deals",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

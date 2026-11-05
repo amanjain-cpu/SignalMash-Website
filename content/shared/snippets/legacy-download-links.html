@@ -1,0 +1,26 @@
+<script>
+(function(){
+  function patch(){
+    var links=document.querySelectorAll('a[href*="/wp-content/uploads/"]');
+    for(var i=0;i<links.length;i++){
+      var a=links[i];
+      if(!/\.csv(\?|$)/i.test(a.getAttribute('href')||''))continue;
+      a.setAttribute('href','/contact-us?topic=sip-area-codes');
+      a.removeAttribute('download');
+      a.removeAttribute('target');
+      a.setAttribute('rel','nofollow');
+      a.setAttribute('title','Ask our team for the current Elastic SIP area-code and zone list');
+      if(/download area codes/i.test((a.textContent||'').trim()))a.textContent='Request the area-code list';
+    }
+    var imgs=document.querySelectorAll('img[src*="/wp-content/uploads/"]');
+    var ico='data:image/svg+xml;utf8,'+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>');
+    for(var j=0;j<imgs.length;j++){
+      var m=imgs[j];
+      if(/circle-help\.svg/i.test(m.getAttribute('src')||'')){m.setAttribute('src',ico);if(!m.getAttribute('alt'))m.setAttribute('alt','More information');}
+    }
+  }
+  patch();
+  document.addEventListener('DOMContentLoaded',patch);
+  window.addEventListener('load',patch);
+})();
+</script>

@@ -1,0 +1,115 @@
+{
+  "path": "/case-studies/0-to-98-sms-delivery-rate",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68ea814976e80c3b0af23425",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68ea814976e80c3b0af23425",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68ea814976e80c3b0af2341e",
+    "data-wf-item-slug": "0-to-98-sms-delivery-rate"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Real Estate SMS Delivery: 0% to 98% in 48 Hours"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How a real estate wholesaler recovered from carrier blocking and closed $64K in deals with 98% SMS delivery rates within 60 days of switching.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real Estate SMS Delivery: 0% to 98% in 48 Hours",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How a real estate wholesaler recovered from carrier blocking and closed $64K in deals with 98% SMS delivery rates within 60 days of switching.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real Estate SMS Delivery: 0% to 98% in 48 Hours",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How a real estate wholesaler recovered from carrier blocking and closed $64K in deals with 98% SMS delivery rates within 60 days of switching.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/case-studies/0-to-98-sms-delivery-rate",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

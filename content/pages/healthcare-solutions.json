@@ -1,0 +1,113 @@
+{
+  "path": "/healthcare-solutions",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68dfef5ee5bec1c72072d127",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68dfef5ee5bec1c72072d127",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Healthcare Communications | HIPAA-Ready Messaging & Voice"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Improve patient engagement with HIPAA-ready SMS, voice, and telehealth. Signalmash helps healthcare providers connect securely and reduce no-shows.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Healthcare Communications | HIPAA-Ready Messaging & Voice",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Improve patient engagement with HIPAA-ready SMS, voice, and telehealth. Signalmash helps healthcare providers connect securely and reduce no-shows.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Healthcare Communications | HIPAA-Ready Messaging & Voice",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Improve patient engagement with HIPAA-ready SMS, voice, and telehealth. Signalmash helps healthcare providers connect securely and reduce no-shows.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/healthcare-solutions",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

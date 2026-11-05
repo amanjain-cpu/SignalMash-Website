@@ -1,0 +1,4 @@
+# Page content and mirrored Webflow files must stay byte-identical to what Webflow published:
+# no line-ending conversion on any platform.
+content/** -text
+public/** -text

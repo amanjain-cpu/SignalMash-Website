@@ -1,0 +1,35 @@
+{
+  "path": "/404",
+  "query": null,
+  "status": 404,
+  "wfPageId": "",
+  "html": {
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "404 - Page not found"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "The page you are looking for doesn't exist or has been moved.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "/cdn/_webflow-app/css/webflow-https-errors.webflow.css",
+        "rel": "stylesheet",
+        "type": "text/css"
+      }
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    }
+  ]
+}

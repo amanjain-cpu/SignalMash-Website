@@ -1,0 +1,120 @@
+{
+  "path": "/what-sms-character-limit",
+  "query": null,
+  "status": 200,
+  "wfPageId": "691d924ac52d7a40b49f671e",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "691d924ac52d7a40b49f671e",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Character Limit on Text Messages: SMS, MMS & RCS Guide"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How many characters fit in a text? Learn SMS 160-character limits, GSM-7 vs Unicode segments, MMS sizes, and RCS limits — plus tips to cut costs.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Character Limit on Text Messages: SMS, MMS & RCS Guide",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How many characters fit in a text? Learn SMS 160-character limits, GSM-7 vs Unicode segments, MMS sizes, and RCS limits — plus tips to cut costs.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Character Limit on Text Messages: SMS, MMS & RCS Guide",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "How many characters fit in a text? Learn SMS 160-character limits, GSM-7 vs Unicode segments, MMS sizes, and RCS limits — plus tips to cut costs.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/what-sms-character-limit",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"What is the character limit for a text message?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"160 characters for a message that uses only GSM-7 characters, 70 characters if it contains any Unicode character such as an emoji. Longer messages are split into segments of 153 or 67 characters, delivered in pieces and reassembled on the phone, with each segment billed separately.\"}}, {\"@type\": \"Question\", \"name\": \"What happens if a text message is over 160 characters?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Nothing is cut off. The sending network adds a small header to each part so the receiving handset can put the segments back in order, and modern phones display the result as one message. You pay for every segment, and a handful of very old feature phones still show the parts separately.\"}}, {\"@type\": \"Question\", \"name\": \"Do emojis count as more characters in a text?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. One emoji forces the entire message into UCS-2 encoding, cutting the per-segment limit from 160 to 70 (153 to 67 when split), and most emoji are two UTF-16 code units, so each one also uses 2 of those 70. A 100-character message with a single emoji is two segments; without it, one.\"}}, {\"@type\": \"Question\", \"name\": \"What is the character limit for MMS?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"MMS is not segmented like SMS. Most US carriers and APIs accept around 1,600 characters of text alongside images, GIFs, audio or short video, with total message size capped between roughly 1 MB and 5 MB depending on the carrier. MMS is billed per message.\"}}, {\"@type\": \"Question\", \"name\": \"What is the character limit for texts on iPhone and Android?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"The channel sets the limit, not the phone. iMessage and RCS chats allow thousands of characters and count emoji as single characters. When a message falls back to SMS, the 160 / 70 character rules apply and the phone silently splits it into segments.\"}}, {\"@type\": \"Question\", \"name\": \"Do links, opt-out text and the sender name count toward the limit?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Every character in the body counts, including URLs and the compliance footer. A full-length tracking link can be 60 to 90 characters and opt-out language such as 'Reply STOP to opt out' is 21, so a 100-character offer easily becomes two segments. Use a short branded link and check the segment count before sending.\"}}]}"
+    }
+  ]
+}

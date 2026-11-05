@@ -1,0 +1,91 @@
+{
+  "path": "/sms-character-counter",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6a99b3f9ce6481e7097c6f7e",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6a99b3f9ce6481e7097c6f7e",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SMS Character Counter: Segments & GSM-7 vs UCS-2"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Free SMS character counter. Paste your message to see character count, encoding (GSM-7 or Unicode), how many segments it will bill as, and what pushes it over the limit.",
+        "name": "description"
+      }
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/sms-character-counter",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "style",
+      "attrs": {},
+      "html": "\n#scc-tool{border:1px solid rgba(0,0,0,.12);border-radius:14px;padding:20px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.06)}\n#scc-input{width:100%;min-height:150px;box-sizing:border-box;font:16px/1.6 inherit;padding:14px;border:1px solid rgba(0,0,0,.18);border-radius:10px;resize:vertical}\n#scc-input:focus{outline:2px solid #1ba4db;outline-offset:1px}\n.scc-stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}\n.scc-stat{flex:1 1 120px;border:1px solid rgba(0,0,0,.1);border-radius:10px;padding:12px 14px;background:#fafafa}\n.scc-num{font-size:26px;font-weight:700;line-height:1.1}\n.scc-lab{font-size:12px;text-transform:uppercase;letter-spacing:.05em;opacity:.6;margin-top:4px}\n.scc-bar{height:6px;border-radius:99px;background:rgba(0,0,0,.08);margin-top:16px;overflow:hidden}\n.scc-fill{height:100%;width:0;background:#2fae5d;transition:width .15s ease}\n.scc-note{font-size:14px;line-height:1.6;margin-top:12px;opacity:.85}\n.scc-warn{color:#b4531a}\n.scc-row{display:flex;gap:10px;align-items:center;margin-top:12px;flex-wrap:wrap}\n.scc-btn{font:14px inherit;padding:8px 14px;border-radius:99px;border:1px solid rgba(0,0,0,.2);background:#fff;cursor:pointer}\n.scc-btn:hover{background:#f2f2f2}\n"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebApplication\",\"name\":\"SMS Character Counter\",\"url\":\"https://signalmash.com/sms-character-counter\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any (web browser)\",\"browserRequirements\":\"Requires JavaScript\",\"description\":\"Counts SMS characters, detects GSM-7 or UCS-2 encoding and calculates how many segments a message will be billed as. Runs entirely in the browser.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"publisher\":{\"@id\":\"https://signalmash.com/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How many characters is one SMS?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"160 characters when the message uses only the GSM-7 alphabet, because a single SMS carries 140 bytes at seven bits per character. If the message contains any character outside GSM-7 it switches to UCS-2 (Unicode) at sixteen bits per character and the limit drops to 70 characters.\"}},{\"@type\":\"Question\",\"name\":\"Why is my SMS counted as multiple messages?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Messages longer than one segment are split into parts, and each part carries a six-byte header. That reduces the payload to 153 characters per part in GSM-7 and 67 per part in UCS-2, so a 161-character message bills as two segments and a 307-character message as three.\"}},{\"@type\":\"Question\",\"name\":\"Do emojis reduce the SMS character limit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. A single emoji forces the whole message into UCS-2 encoding, cutting the single-segment limit from 160 characters to 70. Most emoji also occupy two units rather than one. Curly quotes, en and em dashes, the ellipsis character and non-breaking spaces have the same effect.\"}},{\"@type\":\"Question\",\"name\":\"Which characters count as two in an SMS?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"In GSM-7 the extension-table characters each count as two: the caret, curly braces, square brackets, tilde, backslash, pipe and the euro sign. They do not force Unicode encoding, but they do consume two of your 160 characters each.\"}}]}]}"
+    }
+  ]
+}

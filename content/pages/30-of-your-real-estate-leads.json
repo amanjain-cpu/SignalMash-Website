@@ -1,0 +1,113 @@
+{
+  "path": "/30-of-your-real-estate-leads",
+  "query": null,
+  "status": 200,
+  "wfPageId": "6949494ed0bff1a14de5a694",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "6949494ed0bff1a14de5a694",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Real Estate SMS: Capture 30% More of Your Leads | Signalmash"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "30% of real estate leads never get a response. See how compliant SMS with fast follow-up helps agents win more listings and close more deals.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real Estate SMS: Capture 30% More of Your Leads | Signalmash",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "30% of real estate leads never get a response. See how compliant SMS with fast follow-up helps agents win more listings and close more deals.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Real Estate SMS: Capture 30% More of Your Leads | Signalmash",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "30% of real estate leads never get a response. See how compliant SMS with fast follow-up helps agents win more listings and close more deals.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/30-of-your-real-estate-leads",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

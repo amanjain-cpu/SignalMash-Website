@@ -1,0 +1,11 @@
+/*
+ * Tailwind, for anything new built on this site. Utilities only, on purpose:
+ *
+ * Tailwind's Preflight reset would restyle every Webflow element (headings, lists, images,
+ * buttons) and break the pixel match with the old site, so it is not imported. Everything here is
+ * in cascade layers, and Webflow's stylesheet is not, so where both style the same thing,
+ * Webflow's rule wins.
+ */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

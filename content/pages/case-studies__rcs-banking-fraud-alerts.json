@@ -1,0 +1,115 @@
+{
+  "path": "/case-studies/rcs-banking-fraud-alerts",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68ea814976e80c3b0af23425",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68ea814976e80c3b0af23425",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68ea814976e80c3b0af2341e",
+    "data-wf-item-slug": "rcs-banking-fraud-alerts"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "RCS Banking Case Study: 73% Faster Fraud Response"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A community bank replaced SMS fraud alerts with RCS verified messages. Customer response time dropped 73% and false-positive calls fell 58%.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "RCS Banking Case Study: 73% Faster Fraud Response",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A community bank replaced SMS fraud alerts with RCS verified messages. Customer response time dropped 73% and false-positive calls fell 58%.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "RCS Banking Case Study: 73% Faster Fraud Response",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A community bank replaced SMS fraud alerts with RCS verified messages. Customer response time dropped 73% and false-positive calls fell 58%.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/case-studies/rcs-banking-fraud-alerts",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

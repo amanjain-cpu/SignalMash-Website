@@ -1,0 +1,113 @@
+{
+  "path": "/customer-support-and-sales-with-signalmash",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68de91eca087cab21d2cd584",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68de91eca087cab21d2cd584",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Customer Support & Sales | Streamlined Conversations"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver responsive support and smarter sales outreach via SMS, chat, or voice powered by Signalmash’s unified communications platform.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Customer Support & Sales | Streamlined Conversations",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver responsive support and smarter sales outreach via SMS, chat, or voice powered by Signalmash’s unified communications platform.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Customer Support & Sales | Streamlined Conversations",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Deliver responsive support and smarter sales outreach via SMS, chat, or voice powered by Signalmash’s unified communications platform.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/customer-support-and-sales-with-signalmash",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

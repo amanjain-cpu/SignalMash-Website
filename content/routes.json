@@ -1,0 +1,2342 @@
+[
+  {
+    "path": "/",
+    "query": null,
+    "key": "index",
+    "status": 200
+  },
+  {
+    "path": "/10dlc-messaging",
+    "query": null,
+    "key": "10dlc-messaging",
+    "status": 200
+  },
+  {
+    "path": "/10dlc-readiness-checker",
+    "query": null,
+    "key": "10dlc-readiness-checker",
+    "status": 200
+  },
+  {
+    "path": "/30-of-your-real-estate-leads",
+    "query": null,
+    "key": "30-of-your-real-estate-leads",
+    "status": 200
+  },
+  {
+    "path": "/404",
+    "query": null,
+    "key": "_404",
+    "status": 404
+  },
+  {
+    "path": "/about-us",
+    "query": null,
+    "key": "about-us",
+    "status": 200
+  },
+  {
+    "path": "/acceptable-use-policy",
+    "query": null,
+    "key": "acceptable-use-policy",
+    "status": 200
+  },
+  {
+    "path": "/alerts-and-notifications",
+    "query": null,
+    "key": "alerts-and-notifications",
+    "status": 200
+  },
+  {
+    "path": "/appointment-reminders",
+    "query": null,
+    "key": "appointment-reminders",
+    "status": 200
+  },
+  {
+    "path": "/bcid-cnam",
+    "query": null,
+    "key": "bcid-cnam",
+    "status": 200
+  },
+  {
+    "path": "/billing-as-a-service",
+    "query": null,
+    "key": "billing-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=10",
+    "key": "blog@56e6ea54_page=10",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=11",
+    "key": "blog@56e6ea54_page=11",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=12",
+    "key": "blog@56e6ea54_page=12",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=13",
+    "key": "blog@56e6ea54_page=13",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=14",
+    "key": "blog@56e6ea54_page=14",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=15",
+    "key": "blog@56e6ea54_page=15",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=16",
+    "key": "blog@56e6ea54_page=16",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=2",
+    "key": "blog@56e6ea54_page=2",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=3",
+    "key": "blog@56e6ea54_page=3",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=4",
+    "key": "blog@56e6ea54_page=4",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=5",
+    "key": "blog@56e6ea54_page=5",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=6",
+    "key": "blog@56e6ea54_page=6",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=7",
+    "key": "blog@56e6ea54_page=7",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=8",
+    "key": "blog@56e6ea54_page=8",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": "56e6ea54_page=9",
+    "key": "blog@56e6ea54_page=9",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "query": null,
+    "key": "blog",
+    "status": 200
+  },
+  {
+    "path": "/careers",
+    "query": null,
+    "key": "careers",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/0-to-98-sms-delivery-rate",
+    "query": null,
+    "key": "case-studies__0-to-98-sms-delivery-rate",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/125-improvement-in-expired-listing-response-rates",
+    "query": null,
+    "key": "case-studies__125-improvement-in-expired-listing-response-rates",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/24-agents-back-online-in-72-hours",
+    "query": null,
+    "key": "case-studies__24-agents-back-online-in-72-hours",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/4200-annual-sms-cost-savings",
+    "query": null,
+    "key": "case-studies__4200-annual-sms-cost-savings",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/from-10-000-fine-to-full-compliance-in-30-days",
+    "query": null,
+    "key": "case-studies__from-10-000-fine-to-full-compliance-in-30-days",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/from-2-8-to-7-1-zillow-lead-conversion",
+    "query": null,
+    "key": "case-studies__from-2-8-to-7-1-zillow-lead-conversion",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/from-3-hours-of-manual-texting-to-30-minutes-daily",
+    "query": null,
+    "key": "case-studies__from-3-hours-of-manual-texting-to-30-minutes-daily",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/how-a-digital-bank-protected-14-million",
+    "query": null,
+    "key": "case-studies__how-a-digital-bank-protected-14-million",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/rcs-auto-dealer-service-upsell",
+    "query": null,
+    "key": "case-studies__rcs-auto-dealer-service-upsell",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/rcs-banking-fraud-alerts",
+    "query": null,
+    "key": "case-studies__rcs-banking-fraud-alerts",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/rcs-healthcare-no-show-reduction",
+    "query": null,
+    "key": "case-studies__rcs-healthcare-no-show-reduction",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/rcs-insurance-policy-renewals",
+    "query": null,
+    "key": "case-studies__rcs-insurance-policy-renewals",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/rcs-retail-conversion-rates",
+    "query": null,
+    "key": "case-studies__rcs-retail-conversion-rates",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/scaling-to-2-000-messages-daily",
+    "query": null,
+    "key": "case-studies__scaling-to-2-000-messages-daily",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/the-890-000-cost-of-sorry-we-missed-you-notes",
+    "query": null,
+    "key": "case-studies__the-890-000-cost-of-sorry-we-missed-you-notes",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/the-guest-who-left-before-checkout-a-hotel-chains-1-2m-problem",
+    "query": null,
+    "key": "case-studies__the-guest-who-left-before-checkout-a-hotel-chains-1-2m-problem",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/when-patients-stop-missing-appointments",
+    "query": null,
+    "key": "case-studies__when-patients-stop-missing-appointments",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/why-73-of-shoppers-abandoned-their-carts",
+    "query": null,
+    "key": "case-studies__why-73-of-shoppers-abandoned-their-carts",
+    "status": 200
+  },
+  {
+    "path": "/case-studies/why-847-students-stopped-coming-to-class-a-universitys-retention-fix",
+    "query": null,
+    "key": "case-studies__why-847-students-stopped-coming-to-class-a-universitys-retention-fix",
+    "status": 200
+  },
+  {
+    "path": "/case-study",
+    "query": null,
+    "key": "case-study",
+    "status": 200
+  },
+  {
+    "path": "/cnam-branded-caller-id",
+    "query": null,
+    "key": "cnam-branded-caller-id",
+    "status": 200
+  },
+  {
+    "path": "/coaas",
+    "query": null,
+    "key": "coaas",
+    "status": 200
+  },
+  {
+    "path": "/compliance",
+    "query": null,
+    "key": "compliance",
+    "status": 200
+  },
+  {
+    "path": "/compliance-as-a-service",
+    "query": null,
+    "key": "compliance-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/contact-us",
+    "query": null,
+    "key": "contact-us",
+    "status": 200
+  },
+  {
+    "path": "/cross-sell-and-upsell",
+    "query": null,
+    "key": "cross-sell-and-upsell",
+    "status": 200
+  },
+  {
+    "path": "/customer-experience",
+    "query": null,
+    "key": "customer-experience",
+    "status": 200
+  },
+  {
+    "path": "/customer-support-and-sales-with-signalmash",
+    "query": null,
+    "key": "customer-support-and-sales-with-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/developers",
+    "query": null,
+    "key": "developers",
+    "status": 200
+  },
+  {
+    "path": "/diversity-equity-inclusion-statement",
+    "query": null,
+    "key": "diversity-equity-inclusion-statement",
+    "status": 200
+  },
+  {
+    "path": "/ecommerce",
+    "query": null,
+    "key": "ecommerce",
+    "status": 200
+  },
+  {
+    "path": "/financial-services",
+    "query": null,
+    "key": "financial-services",
+    "status": 200
+  },
+  {
+    "path": "/for-ai-companies-integrating-conversational-technologies",
+    "query": null,
+    "key": "for-ai-companies-integrating-conversational-technologies",
+    "status": 200
+  },
+  {
+    "path": "/for-complementary-technology-providers-and-isvs",
+    "query": null,
+    "key": "for-complementary-technology-providers-and-isvs",
+    "status": 200
+  },
+  {
+    "path": "/for-early-stage-companies",
+    "query": null,
+    "key": "for-early-stage-companies",
+    "status": 200
+  },
+  {
+    "path": "/for-international-companies",
+    "query": null,
+    "key": "for-international-companies",
+    "status": 200
+  },
+  {
+    "path": "/fraud-prevention",
+    "query": null,
+    "key": "fraud-prevention",
+    "status": 200
+  },
+  {
+    "path": "/get-in-touch",
+    "query": null,
+    "key": "get-in-touch",
+    "status": 200
+  },
+  {
+    "path": "/get-in-touch-now",
+    "query": null,
+    "key": "get-in-touch-now",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/ai",
+    "query": "de61df57_page=1",
+    "key": "hashtags__ai@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/ai",
+    "query": "de61df57_page=2",
+    "key": "hashtags__ai@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/ai",
+    "query": null,
+    "key": "hashtags__ai",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/benefit-corporation",
+    "query": null,
+    "key": "hashtags__benefit-corporation",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=10",
+    "key": "hashtags__business@de61df57_page=10",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=2",
+    "key": "hashtags__business@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=3",
+    "key": "hashtags__business@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=4",
+    "key": "hashtags__business@de61df57_page=4",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=5",
+    "key": "hashtags__business@de61df57_page=5",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=6",
+    "key": "hashtags__business@de61df57_page=6",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=7",
+    "key": "hashtags__business@de61df57_page=7",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=8",
+    "key": "hashtags__business@de61df57_page=8",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": "de61df57_page=9",
+    "key": "hashtags__business@de61df57_page=9",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/business",
+    "query": null,
+    "key": "hashtags__business",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=2",
+    "key": "hashtags__communications@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=3",
+    "key": "hashtags__communications@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=4",
+    "key": "hashtags__communications@de61df57_page=4",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=5",
+    "key": "hashtags__communications@de61df57_page=5",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=6",
+    "key": "hashtags__communications@de61df57_page=6",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=7",
+    "key": "hashtags__communications@de61df57_page=7",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": "de61df57_page=8",
+    "key": "hashtags__communications@de61df57_page=8",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/communications",
+    "query": null,
+    "key": "hashtags__communications",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/contact-centers",
+    "query": "de61df57_page=2",
+    "key": "hashtags__contact-centers@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/contact-centers",
+    "query": "de61df57_page=3",
+    "key": "hashtags__contact-centers@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/contact-centers",
+    "query": null,
+    "key": "hashtags__contact-centers",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/creative-invention",
+    "query": null,
+    "key": "hashtags__creative-invention",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/customer-experience",
+    "query": "de61df57_page=2",
+    "key": "hashtags__customer-experience@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/customer-experience",
+    "query": "de61df57_page=3",
+    "key": "hashtags__customer-experience@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/customer-experience",
+    "query": "de61df57_page=4",
+    "key": "hashtags__customer-experience@de61df57_page=4",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/customer-experience",
+    "query": null,
+    "key": "hashtags__customer-experience",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/cybersecurity",
+    "query": "de61df57_page=1",
+    "key": "hashtags__cybersecurity@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/cybersecurity",
+    "query": "de61df57_page=2",
+    "key": "hashtags__cybersecurity@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/cybersecurity",
+    "query": null,
+    "key": "hashtags__cybersecurity",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/digital-divide",
+    "query": null,
+    "key": "hashtags__digital-divide",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/digital-nomad",
+    "query": null,
+    "key": "hashtags__digital-nomad",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/digital-privacy",
+    "query": null,
+    "key": "hashtags__digital-privacy",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/environment",
+    "query": null,
+    "key": "hashtags__environment",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/identity",
+    "query": null,
+    "key": "hashtags__identity",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/marketing-growth",
+    "query": "de61df57_page=1",
+    "key": "hashtags__marketing-growth@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/marketing-growth",
+    "query": "de61df57_page=2",
+    "key": "hashtags__marketing-growth@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/marketing-growth",
+    "query": null,
+    "key": "hashtags__marketing-growth",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/numbers",
+    "query": "de61df57_page=1",
+    "key": "hashtags__numbers@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/numbers",
+    "query": "de61df57_page=2",
+    "key": "hashtags__numbers@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/numbers",
+    "query": null,
+    "key": "hashtags__numbers",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/professionals",
+    "query": null,
+    "key": "hashtags__professionals",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/rcs",
+    "query": "de61df57_page=1",
+    "key": "hashtags__rcs@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/rcs",
+    "query": "de61df57_page=2",
+    "key": "hashtags__rcs@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/rcs",
+    "query": null,
+    "key": "hashtags__rcs",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/regulation",
+    "query": "de61df57_page=1",
+    "key": "hashtags__regulation@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/regulation",
+    "query": "de61df57_page=2",
+    "key": "hashtags__regulation@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/regulation",
+    "query": null,
+    "key": "hashtags__regulation",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/tech-for-good",
+    "query": "de61df57_page=1",
+    "key": "hashtags__tech-for-good@de61df57_page=1",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/tech-for-good",
+    "query": "de61df57_page=2",
+    "key": "hashtags__tech-for-good@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/tech-for-good",
+    "query": null,
+    "key": "hashtags__tech-for-good",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": "de61df57_page=2",
+    "key": "hashtags__technology@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": "de61df57_page=3",
+    "key": "hashtags__technology@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": "de61df57_page=4",
+    "key": "hashtags__technology@de61df57_page=4",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": "de61df57_page=5",
+    "key": "hashtags__technology@de61df57_page=5",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": "de61df57_page=6",
+    "key": "hashtags__technology@de61df57_page=6",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/technology",
+    "query": null,
+    "key": "hashtags__technology",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/telecom-infrastructure",
+    "query": "de61df57_page=2",
+    "key": "hashtags__telecom-infrastructure@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/telecom-infrastructure",
+    "query": "de61df57_page=3",
+    "key": "hashtags__telecom-infrastructure@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/telecom-infrastructure",
+    "query": null,
+    "key": "hashtags__telecom-infrastructure",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/text-messaging",
+    "query": "de61df57_page=2",
+    "key": "hashtags__text-messaging@de61df57_page=2",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/text-messaging",
+    "query": "de61df57_page=3",
+    "key": "hashtags__text-messaging@de61df57_page=3",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/text-messaging",
+    "query": "de61df57_page=4",
+    "key": "hashtags__text-messaging@de61df57_page=4",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/text-messaging",
+    "query": "de61df57_page=5",
+    "key": "hashtags__text-messaging@de61df57_page=5",
+    "status": 200
+  },
+  {
+    "path": "/hashtags/text-messaging",
+    "query": null,
+    "key": "hashtags__text-messaging",
+    "status": 200
+  },
+  {
+    "path": "/healthcare-solutions",
+    "query": null,
+    "key": "healthcare-solutions",
+    "status": 200
+  },
+  {
+    "path": "/home",
+    "query": null,
+    "key": "home",
+    "status": 200
+  },
+  {
+    "path": "/hospitality",
+    "query": null,
+    "key": "hospitality",
+    "status": 200
+  },
+  {
+    "path": "/identity",
+    "query": null,
+    "key": "identity",
+    "status": 200
+  },
+  {
+    "path": "/isv",
+    "query": null,
+    "key": "isv",
+    "status": 200
+  },
+  {
+    "path": "/know-your-customer-kyc-as-a-service",
+    "query": null,
+    "key": "know-your-customer-kyc-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/lead-alerts",
+    "query": null,
+    "key": "lead-alerts",
+    "status": 200
+  },
+  {
+    "path": "/local-numbers",
+    "query": null,
+    "key": "local-numbers",
+    "status": 200
+  },
+  {
+    "path": "/local-origination",
+    "query": null,
+    "key": "local-origination",
+    "status": 200
+  },
+  {
+    "path": "/local-termination",
+    "query": null,
+    "key": "local-termination",
+    "status": 200
+  },
+  {
+    "path": "/marketing",
+    "query": null,
+    "key": "marketing",
+    "status": 200
+  },
+  {
+    "path": "/marketing-and-promotions-with-signalmash",
+    "query": null,
+    "key": "marketing-and-promotions-with-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/mashpbx",
+    "query": null,
+    "key": "mashpbx",
+    "status": 200
+  },
+  {
+    "path": "/mashpbx-terms",
+    "query": null,
+    "key": "mashpbx-terms",
+    "status": 200
+  },
+  {
+    "path": "/mass-texting",
+    "query": null,
+    "key": "mass-texting",
+    "status": 200
+  },
+  {
+    "path": "/non-profit",
+    "query": null,
+    "key": "non-profit",
+    "status": 200
+  },
+  {
+    "path": "/number-intelligence",
+    "query": null,
+    "key": "number-intelligence",
+    "status": 200
+  },
+  {
+    "path": "/numbers",
+    "query": null,
+    "key": "numbers",
+    "status": 200
+  },
+  {
+    "path": "/otp-sms-api",
+    "query": null,
+    "key": "otp-sms-api",
+    "status": 200
+  },
+  {
+    "path": "/our-partners",
+    "query": null,
+    "key": "our-partners",
+    "status": 200
+  },
+  {
+    "path": "/pay-as-you-go",
+    "query": null,
+    "key": "pay-as-you-go",
+    "status": 200
+  },
+  {
+    "path": "/payments-as-a-service",
+    "query": null,
+    "key": "payments-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/post/10-benefits-of-us-short-code-toll-free-text-messaging",
+    "query": null,
+    "key": "post__10-benefits-of-us-short-code-toll-free-text-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-campaign-approval-checklist",
+    "query": null,
+    "key": "post__10dlc-campaign-approval-checklist",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-compliance-guide-for-real-estate-teams",
+    "query": null,
+    "key": "post__10dlc-compliance-guide-for-real-estate-teams",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-error-codes-troubleshooting",
+    "query": null,
+    "key": "post__10dlc-error-codes-troubleshooting",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-registration-demystified-what-businesses-need-to-know",
+    "query": null,
+    "key": "post__10dlc-registration-demystified-what-businesses-need-to-know",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-the-foundation-of-trusted-business-messaging",
+    "query": null,
+    "key": "post__10dlc-the-foundation-of-trusted-business-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/10dlc-throughput-and-trust-score-explained",
+    "query": null,
+    "key": "post__10dlc-throughput-and-trust-score-explained",
+    "status": 200
+  },
+  {
+    "path": "/post/2fa-and-otp-as-a-service-strengthening-security-without-slowing-users-down",
+    "query": null,
+    "key": "post__2fa-and-otp-as-a-service-strengthening-security-without-slowing-users-down",
+    "status": 200
+  },
+  {
+    "path": "/post/7-reasons-your-10dlc-campaigns-get-rejected",
+    "query": null,
+    "key": "post__7-reasons-your-10dlc-campaigns-get-rejected",
+    "status": 200
+  },
+  {
+    "path": "/post/a2p-10dlc-registration-requirements",
+    "query": null,
+    "key": "post__a2p-10dlc-registration-requirements",
+    "status": 200
+  },
+  {
+    "path": "/post/a2p-messaging-compliance-services",
+    "query": null,
+    "key": "post__a2p-messaging-compliance-services",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-driven-fraud-detection-in-voice-and-messaging-whats-new",
+    "query": null,
+    "key": "post__ai-driven-fraud-detection-in-voice-and-messaging-whats-new",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-in-contact-centers-from-ivr-to-intelligent-routing",
+    "query": null,
+    "key": "post__ai-in-contact-centers-from-ivr-to-intelligent-routing",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-in-customer-service-smarter-conversations-or-just-smarter-bots",
+    "query": null,
+    "key": "post__ai-in-customer-service-smarter-conversations-or-just-smarter-bots",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-in-telecom-compliance-preparing-for-2025-regulations",
+    "query": null,
+    "key": "post__ai-in-telecom-compliance-preparing-for-2025-regulations",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-meets-healthcare-messaging-privacy-security-and-patient-trust",
+    "query": null,
+    "key": "post__ai-meets-healthcare-messaging-privacy-security-and-patient-trust",
+    "status": 200
+  },
+  {
+    "path": "/post/ai-powered-personalization-hype-vs-reality-in-business-messaging",
+    "query": null,
+    "key": "post__ai-powered-personalization-hype-vs-reality-in-business-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/apple-rcs-ios-18-business",
+    "query": null,
+    "key": "post__apple-rcs-ios-18-business",
+    "status": 200
+  },
+  {
+    "path": "/post/att-considers-acquiring-lumens-consumer-fiber-business",
+    "query": null,
+    "key": "post__att-considers-acquiring-lumens-consumer-fiber-business",
+    "status": 200
+  },
+  {
+    "path": "/post/bandwidth-vs-signalmash",
+    "query": null,
+    "key": "post__bandwidth-vs-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/best-ai-chatbot-builders-for-rcs-messaging",
+    "query": null,
+    "key": "post__best-ai-chatbot-builders-for-rcs-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/best-cpaas-providers-2026",
+    "query": null,
+    "key": "post__best-cpaas-providers-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/best-rcs-business-messaging-providers-us",
+    "query": null,
+    "key": "post__best-rcs-business-messaging-providers-us",
+    "status": 200
+  },
+  {
+    "path": "/post/best-rcs-messaging-platform-for-small-business",
+    "query": null,
+    "key": "post__best-rcs-messaging-platform-for-small-business",
+    "status": 200
+  },
+  {
+    "path": "/post/best-sip-trunking-providers-2026",
+    "query": null,
+    "key": "post__best-sip-trunking-providers-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/best-sms-api-providers",
+    "query": null,
+    "key": "post__best-sms-api-providers",
+    "status": 200
+  },
+  {
+    "path": "/post/best-twilio-alternatives",
+    "query": null,
+    "key": "post__best-twilio-alternatives",
+    "status": 200
+  },
+  {
+    "path": "/post/best-ucaas-providers-in-2024",
+    "query": null,
+    "key": "post__best-ucaas-providers-in-2024",
+    "status": 200
+  },
+  {
+    "path": "/post/black-friday-insights-how-ai-optimized-holiday-sms-campaigns",
+    "query": null,
+    "key": "post__black-friday-insights-how-ai-optimized-holiday-sms-campaigns",
+    "status": 200
+  },
+  {
+    "path": "/post/bots-bureaucracy-and-the-battle-for-telecom-why-real-wins",
+    "query": null,
+    "key": "post__bots-bureaucracy-and-the-battle-for-telecom-why-real-wins",
+    "status": 200
+  },
+  {
+    "path": "/post/boutique-vs-big-box-cpaas-which-is-right-for-your-business",
+    "query": null,
+    "key": "post__boutique-vs-big-box-cpaas-which-is-right-for-your-business",
+    "status": 200
+  },
+  {
+    "path": "/post/branded-caller-id-the-phone-call-is-broken-heres-how-we-fix-it",
+    "query": null,
+    "key": "post__branded-caller-id-the-phone-call-is-broken-heres-how-we-fix-it",
+    "status": 200
+  },
+  {
+    "path": "/post/build-rcs-campaign-no-code",
+    "query": null,
+    "key": "post__build-rcs-campaign-no-code",
+    "status": 200
+  },
+  {
+    "path": "/post/build-voice-messaging-into-your-app",
+    "query": null,
+    "key": "post__build-voice-messaging-into-your-app",
+    "status": 200
+  },
+  {
+    "path": "/post/bulk-sms-api",
+    "query": null,
+    "key": "post__bulk-sms-api",
+    "status": 200
+  },
+  {
+    "path": "/post/byoc-sip-trunking-contact-center",
+    "query": null,
+    "key": "post__byoc-sip-trunking-contact-center",
+    "status": 200
+  },
+  {
+    "path": "/post/cnam-vs-branded-caller-id",
+    "query": null,
+    "key": "post__cnam-vs-branded-caller-id",
+    "status": 200
+  },
+  {
+    "path": "/post/cnam-vs-branded-caller-id-evolving-standards-and-technologies-restoring-consumer-trust",
+    "query": null,
+    "key": "post__cnam-vs-branded-caller-id-evolving-standards-and-technologies-restoring-consumer-trust",
+    "status": 200
+  },
+  {
+    "path": "/post/cold-texting-crisis-why-real-estate-sms-campaigns",
+    "query": null,
+    "key": "post__cold-texting-crisis-why-real-estate-sms-campaigns",
+    "status": 200
+  },
+  {
+    "path": "/post/complete-guide-to-u-s-telephone-numbering-management-assignment-and-portability",
+    "query": null,
+    "key": "post__complete-guide-to-u-s-telephone-numbering-management-assignment-and-portability",
+    "status": 200
+  },
+  {
+    "path": "/post/contact-center-vs-call-center-heres-how-to-choose",
+    "query": null,
+    "key": "post__contact-center-vs-call-center-heres-how-to-choose",
+    "status": 200
+  },
+  {
+    "path": "/post/cpaas-buyers-checklist",
+    "query": null,
+    "key": "post__cpaas-buyers-checklist",
+    "status": 200
+  },
+  {
+    "path": "/post/ctia-messaging-principles-and-best-practices",
+    "query": null,
+    "key": "post__ctia-messaging-principles-and-best-practices",
+    "status": 200
+  },
+  {
+    "path": "/post/ctia-messaging-principles-and-best-practices-handbook",
+    "query": null,
+    "key": "post__ctia-messaging-principles-and-best-practices-handbook",
+    "status": 200
+  },
+  {
+    "path": "/post/delaware-personal-data-privacy-act-dpdpa-enacted",
+    "query": null,
+    "key": "post__delaware-personal-data-privacy-act-dpdpa-enacted",
+    "status": 200
+  },
+  {
+    "path": "/post/digital-divide-what-can-be-done",
+    "query": null,
+    "key": "post__digital-divide-what-can-be-done",
+    "status": 200
+  },
+  {
+    "path": "/post/direct-to-carrier-connections-why-they-matter-for-your-call-quality",
+    "query": null,
+    "key": "post__direct-to-carrier-connections-why-they-matter-for-your-call-quality",
+    "status": 200
+  },
+  {
+    "path": "/post/e911-stir-shaken-sip-trunking",
+    "query": null,
+    "key": "post__e911-stir-shaken-sip-trunking",
+    "status": 200
+  },
+  {
+    "path": "/post/earth-day-2022-meaningful-actions-business-leaders-can-take-to-invest-in-our-planet-2",
+    "query": null,
+    "key": "post__earth-day-2022-meaningful-actions-business-leaders-can-take-to-invest-in-our-planet-2",
+    "status": 200
+  },
+  {
+    "path": "/post/embed-sms-voice-saas-platform",
+    "query": null,
+    "key": "post__embed-sms-voice-saas-platform",
+    "status": 200
+  },
+  {
+    "path": "/post/enabling-sms-mms-into-your-app",
+    "query": null,
+    "key": "post__enabling-sms-mms-into-your-app",
+    "status": 200
+  },
+  {
+    "path": "/post/everything-you-need-to-know-about-stir-shaken",
+    "query": null,
+    "key": "post__everything-you-need-to-know-about-stir-shaken",
+    "status": 200
+  },
+  {
+    "path": "/post/explore-the-evolution-from-cnam-to-branded-caller-id-bcid-how-stir-shaken-and-industry-leaders-are-rebuild-trust-in-voice-calls",
+    "query": null,
+    "key": "post__explore-the-evolution-from-cnam-to-branded-caller-id-bcid-how-stir-shaken-and-industry-leaders-are-rebuild-trust-in-voice-calls",
+    "status": 200
+  },
+  {
+    "path": "/post/exploring-the-versatility-of-cpaas-popular-use-cases-across-industries",
+    "query": null,
+    "key": "post__exploring-the-versatility-of-cpaas-popular-use-cases-across-industries",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-advances-37-ghz-spectrum-sharing-rules",
+    "query": null,
+    "key": "post__fcc-advances-37-ghz-spectrum-sharing-rules",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-advances-wireless-spectrum-auction-to-fund-removal-of-chinese-equipment",
+    "query": null,
+    "key": "post__fcc-advances-wireless-spectrum-auction-to-fund-removal-of-chinese-equipment",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-chairman-brendan-carr-starts-granting-telecom-lobbys-wish-list",
+    "query": null,
+    "key": "post__fcc-chairman-brendan-carr-starts-granting-telecom-lobbys-wish-list",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-cracks-down-on-foreign-control-in-u-s-communications-infrastructure",
+    "query": null,
+    "key": "post__fcc-cracks-down-on-foreign-control-in-u-s-communications-infrastructure",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-enacts-rule-requiring-telecom-operators-to-secure-networks",
+    "query": null,
+    "key": "post__fcc-enacts-rule-requiring-telecom-operators-to-secure-networks",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-implements-new-cybersecurity-requirements-for-telecom-operators",
+    "query": null,
+    "key": "post__fcc-implements-new-cybersecurity-requirements-for-telecom-operators",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-investigates-chinese-telecom-firms-for-compliance-violations",
+    "query": null,
+    "key": "post__fcc-investigates-chinese-telecom-firms-for-compliance-violations",
+    "status": 200
+  },
+  {
+    "path": "/post/fcc-updates-tcpa-opt-out-requirements",
+    "query": null,
+    "key": "post__fcc-updates-tcpa-opt-out-requirements",
+    "status": 200
+  },
+  {
+    "path": "/post/fix-scam-likely-business-calls",
+    "query": null,
+    "key": "post__fix-scam-likely-business-calls",
+    "status": 200
+  },
+  {
+    "path": "/post/ftc-finalizes-click-to-cancel-rule",
+    "query": null,
+    "key": "post__ftc-finalizes-click-to-cancel-rule",
+    "status": 200
+  },
+  {
+    "path": "/post/ftc-strengthens-coppa-regulations",
+    "query": null,
+    "key": "post__ftc-strengthens-coppa-regulations",
+    "status": 200
+  },
+  {
+    "path": "/post/generative-ai-in-business-communication-use-cases-worth-watching",
+    "query": null,
+    "key": "post__generative-ai-in-business-communication-use-cases-worth-watching",
+    "status": 200
+  },
+  {
+    "path": "/post/happy-earth-day-from-signalmash",
+    "query": null,
+    "key": "post__happy-earth-day-from-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/healthcare-messaging-how-signalmash-reduces-no-shows-and-improves-patient-care",
+    "query": null,
+    "key": "post__healthcare-messaging-how-signalmash-reduces-no-shows-and-improves-patient-care",
+    "status": 200
+  },
+  {
+    "path": "/post/hipaa-compliant-sms-healthcare",
+    "query": null,
+    "key": "post__hipaa-compliant-sms-healthcare",
+    "status": 200
+  },
+  {
+    "path": "/post/hodusoft-partners-with-cpaas-provider-signalmash",
+    "query": null,
+    "key": "post__hodusoft-partners-with-cpaas-provider-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/how-an-oregon-startup-is-putting-soul-into-the-tech-world",
+    "query": null,
+    "key": "post__how-an-oregon-startup-is-putting-soul-into-the-tech-world",
+    "status": 200
+  },
+  {
+    "path": "/post/how-does-the-campaign-registry-work-for-sms-and-mms",
+    "query": null,
+    "key": "post__how-does-the-campaign-registry-work-for-sms-and-mms",
+    "status": 200
+  },
+  {
+    "path": "/post/how-is-sms-different-from-mms-a-complete-guide-to-text-messaging-technologies",
+    "query": null,
+    "key": "post__how-is-sms-different-from-mms-a-complete-guide-to-text-messaging-technologies",
+    "status": 200
+  },
+  {
+    "path": "/post/how-long-does-10dlc-registration-take",
+    "query": null,
+    "key": "post__how-long-does-10dlc-registration-take",
+    "status": 200
+  },
+  {
+    "path": "/post/how-signalmash-works-with-software-developers",
+    "query": null,
+    "key": "post__how-signalmash-works-with-software-developers",
+    "status": 200
+  },
+  {
+    "path": "/post/how-sms-mms-reduces-carbon-footprint",
+    "query": null,
+    "key": "post__how-sms-mms-reduces-carbon-footprint",
+    "status": 200
+  },
+  {
+    "path": "/post/how-to-migrate-from-twilio-to-signalmash",
+    "query": null,
+    "key": "post__how-to-migrate-from-twilio-to-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/how-your-tech-company-benefits-from-becoming-a-triple-bottom-line-business",
+    "query": null,
+    "key": "post__how-your-tech-company-benefits-from-becoming-a-triple-bottom-line-business",
+    "status": 200
+  },
+  {
+    "path": "/post/identity-number-intelligence-services-the-hidden-link-between-compliance-trust-and-communication-success",
+    "query": null,
+    "key": "post__identity-number-intelligence-services-the-hidden-link-between-compliance-trust-and-communication-success",
+    "status": 200
+  },
+  {
+    "path": "/post/internet-of-things-iot-explained",
+    "query": null,
+    "key": "post__internet-of-things-iot-explained",
+    "status": 200
+  },
+  {
+    "path": "/post/is-cold-calling-legal-in-the-us-just-the-facts-no-spin",
+    "query": null,
+    "key": "post__is-cold-calling-legal-in-the-us-just-the-facts-no-spin",
+    "status": 200
+  },
+  {
+    "path": "/post/mass-texting-best-practices",
+    "query": null,
+    "key": "post__mass-texting-best-practices",
+    "status": 200
+  },
+  {
+    "path": "/post/microsoft-teams-direct-routing-sip-trunking",
+    "query": null,
+    "key": "post__microsoft-teams-direct-routing-sip-trunking",
+    "status": 200
+  },
+  {
+    "path": "/post/mortgage-sms-compliance-jungo",
+    "query": null,
+    "key": "post__mortgage-sms-compliance-jungo",
+    "status": 200
+  },
+  {
+    "path": "/post/most-transparent-rcs-pricing",
+    "query": null,
+    "key": "post__most-transparent-rcs-pricing",
+    "status": 200
+  },
+  {
+    "path": "/post/move-from-twilio-to-rcs-provider-without-losing-numbers",
+    "query": null,
+    "key": "post__move-from-twilio-to-rcs-provider-without-losing-numbers",
+    "status": 200
+  },
+  {
+    "path": "/post/narrowing-the-digital-divide",
+    "query": null,
+    "key": "post__narrowing-the-digital-divide",
+    "status": 200
+  },
+  {
+    "path": "/post/navigating-digital-communications-in-a-post-pandemic-world",
+    "query": null,
+    "key": "post__navigating-digital-communications-in-a-post-pandemic-world",
+    "status": 200
+  },
+  {
+    "path": "/post/navigating-the-2025-fcc-regulations",
+    "query": null,
+    "key": "post__navigating-the-2025-fcc-regulations",
+    "status": 200
+  },
+  {
+    "path": "/post/phone-numbers-for-as-low-as-0-50-signalmash-challenges-twilio-bandwidth-and-plivo",
+    "query": null,
+    "key": "post__phone-numbers-for-as-low-as-0-50-signalmash-challenges-twilio-bandwidth-and-plivo",
+    "status": 200
+  },
+  {
+    "path": "/post/plivo-vs-twilio-vs-signalmash",
+    "query": null,
+    "key": "post__plivo-vs-twilio-vs-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/political-and-non-profit-sms-and-voice-campaigns-for-the-2026-midterms",
+    "query": null,
+    "key": "post__political-and-non-profit-sms-and-voice-campaigns-for-the-2026-midterms",
+    "status": 200
+  },
+  {
+    "path": "/post/porting-phone-numbers",
+    "query": null,
+    "key": "post__porting-phone-numbers",
+    "status": 200
+  },
+  {
+    "path": "/post/practical-ways-cpaas-technology-can-improve-your-business",
+    "query": null,
+    "key": "post__practical-ways-cpaas-technology-can-improve-your-business",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-business-messaging-cost-per-message",
+    "query": null,
+    "key": "post__rcs-business-messaging-cost-per-message",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-business-messaging-in-the-u-s-whats-next-for-brands",
+    "query": null,
+    "key": "post__rcs-business-messaging-in-the-u-s-whats-next-for-brands",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-for-financial-services-verified-messaging-that-fights-fraud",
+    "query": null,
+    "key": "post__rcs-for-financial-services-verified-messaging-that-fights-fraud",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-for-hospitality-reduce-no-shows-and-delight-guests",
+    "query": null,
+    "key": "post__rcs-for-hospitality-reduce-no-shows-and-delight-guests",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-for-insurance-agencies",
+    "query": null,
+    "key": "post__rcs-for-insurance-agencies",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-for-retail-how-rich-messaging-drives-60-higher-conversions",
+    "query": null,
+    "key": "post__rcs-for-retail-how-rich-messaging-drives-60-higher-conversions",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-platforms-ai-agent-answers-from-your-own-content",
+    "query": null,
+    "key": "post__rcs-platforms-ai-agent-answers-from-your-own-content",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-providers-that-handle-google-sender-verification-and-10dlc",
+    "query": null,
+    "key": "post__rcs-providers-that-handle-google-sender-verification-and-10dlc",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-providers-with-no-platform-fee",
+    "query": null,
+    "key": "post__rcs-providers-with-no-platform-fee",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-vs-sms-everything-businesses-need-to-know-in-2026",
+    "query": null,
+    "key": "post__rcs-vs-sms-everything-businesses-need-to-know-in-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/rcs-vs-whatsapp-business",
+    "query": null,
+    "key": "post__rcs-vs-whatsapp-business",
+    "status": 200
+  },
+  {
+    "path": "/post/redefining-cpaas-support-why-real-help-cant-wait",
+    "query": null,
+    "key": "post__redefining-cpaas-support-why-real-help-cant-wait",
+    "status": 200
+  },
+  {
+    "path": "/post/rest-api-sms-quickstart",
+    "query": null,
+    "key": "post__rest-api-sms-quickstart",
+    "status": 200
+  },
+  {
+    "path": "/post/saas-cpaas-how-saas-companies-keep-users-engaged-with-signalmash",
+    "query": null,
+    "key": "post__saas-cpaas-how-saas-companies-keep-users-engaged-with-signalmash",
+    "status": 200
+  },
+  {
+    "path": "/post/short-code-sms-setup-guide",
+    "query": null,
+    "key": "post__short-code-sms-setup-guide",
+    "status": 200
+  },
+  {
+    "path": "/post/short-code-vs-10dlc-vs-toll-free",
+    "query": null,
+    "key": "post__short-code-vs-10dlc-vs-toll-free",
+    "status": 200
+  },
+  {
+    "path": "/post/signalmash-vs-signalwire",
+    "query": null,
+    "key": "post__signalmash-vs-signalwire",
+    "status": 200
+  },
+  {
+    "path": "/post/sip-trunking-contact-center-guide",
+    "query": null,
+    "key": "post__sip-trunking-contact-center-guide",
+    "status": 200
+  },
+  {
+    "path": "/post/sip-trunking-pricing-guide-2026",
+    "query": null,
+    "key": "post__sip-trunking-pricing-guide-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/sip-vs-voip-whats-the-difference",
+    "query": null,
+    "key": "post__sip-vs-voip-whats-the-difference",
+    "status": 200
+  },
+  {
+    "path": "/post/slack-for-support-why-signalmash-treats-support-like-a-product",
+    "query": null,
+    "key": "post__slack-for-support-why-signalmash-treats-support-like-a-product",
+    "status": 200
+  },
+  {
+    "path": "/post/sms-apis-short-codes-and-long-codes-your-complete-guide-to-business-messaging",
+    "query": null,
+    "key": "post__sms-apis-short-codes-and-long-codes-your-complete-guide-to-business-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/sms-cost-clarity-for-real-estate-investor",
+    "query": null,
+    "key": "post__sms-cost-clarity-for-real-estate-investor",
+    "status": 200
+  },
+  {
+    "path": "/post/sms-for-auto-dealerships",
+    "query": null,
+    "key": "post__sms-for-auto-dealerships",
+    "status": 200
+  },
+  {
+    "path": "/post/sms-for-real-estate",
+    "query": null,
+    "key": "post__sms-for-real-estate",
+    "status": 200
+  },
+  {
+    "path": "/post/sms-marketing-ecommerce-2026",
+    "query": null,
+    "key": "post__sms-marketing-ecommerce-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/snapchat-faces-tcpa-class-action-lawsuit",
+    "query": null,
+    "key": "post__snapchat-faces-tcpa-class-action-lawsuit",
+    "status": 200
+  },
+  {
+    "path": "/post/software-bug-where-the-term-came-from",
+    "query": null,
+    "key": "post__software-bug-where-the-term-came-from",
+    "status": 200
+  },
+  {
+    "path": "/post/software-developer-vs-programmer",
+    "query": null,
+    "key": "post__software-developer-vs-programmer",
+    "status": 200
+  },
+  {
+    "path": "/post/state-of-rcs-2026-report",
+    "query": null,
+    "key": "post__state-of-rcs-2026-report",
+    "status": 200
+  },
+  {
+    "path": "/post/stop-robocalls-for-good-10-proven-steps-to-reclaim-your-phone",
+    "query": null,
+    "key": "post__stop-robocalls-for-good-10-proven-steps-to-reclaim-your-phone",
+    "status": 200
+  },
+  {
+    "path": "/post/t-mobiles-subscriber-growth-slows-amid-intensified-competition",
+    "query": null,
+    "key": "post__t-mobiles-subscriber-growth-slows-amid-intensified-competition",
+    "status": 200
+  },
+  {
+    "path": "/post/tcpa-compliance-sms-2026",
+    "query": null,
+    "key": "post__tcpa-compliance-sms-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/tech-up-for-change",
+    "query": null,
+    "key": "post__tech-up-for-change",
+    "status": 200
+  },
+  {
+    "path": "/post/telecom-acronyms-updated-industry-reference-guide",
+    "query": null,
+    "key": "post__telecom-acronyms-updated-industry-reference-guide",
+    "status": 200
+  },
+  {
+    "path": "/post/telemarketing-died-so-google-could-thrive",
+    "query": null,
+    "key": "post__telemarketing-died-so-google-could-thrive",
+    "status": 200
+  },
+  {
+    "path": "/post/text-taxed-and-throttled",
+    "query": null,
+    "key": "post__text-taxed-and-throttled",
+    "status": 200
+  },
+  {
+    "path": "/post/texting-trust-tax",
+    "query": null,
+    "key": "post__texting-trust-tax",
+    "status": 200
+  },
+  {
+    "path": "/post/the-10dlc-ai-intersection-why-smart-messaging-still-depends-on-human-oversight",
+    "query": null,
+    "key": "post__the-10dlc-ai-intersection-why-smart-messaging-still-depends-on-human-oversight",
+    "status": 200
+  },
+  {
+    "path": "/post/the-10dlc-registration-deadline-is-approaching",
+    "query": null,
+    "key": "post__the-10dlc-registration-deadline-is-approaching",
+    "status": 200
+  },
+  {
+    "path": "/post/the-beginning-of-a-digital-nomads-american-road-voyage",
+    "query": null,
+    "key": "post__the-beginning-of-a-digital-nomads-american-road-voyage",
+    "status": 200
+  },
+  {
+    "path": "/post/the-complete-10dlc-registration-guide-for-2026",
+    "query": null,
+    "key": "post__the-complete-10dlc-registration-guide-for-2026",
+    "status": 200
+  },
+  {
+    "path": "/post/the-complete-guide-to-sms-marketing-strategy-tactics-and-best-practices",
+    "query": null,
+    "key": "post__the-complete-guide-to-sms-marketing-strategy-tactics-and-best-practices",
+    "status": 200
+  },
+  {
+    "path": "/post/the-differences-between-cpaas-and-saas",
+    "query": null,
+    "key": "post__the-differences-between-cpaas-and-saas",
+    "status": 200
+  },
+  {
+    "path": "/post/the-digital-divide-effect-on-children-cannot-be-muted",
+    "query": null,
+    "key": "post__the-digital-divide-effect-on-children-cannot-be-muted",
+    "status": 200
+  },
+  {
+    "path": "/post/the-hottest-trends-in-ucaas-for-2022",
+    "query": null,
+    "key": "post__the-hottest-trends-in-ucaas-for-2022",
+    "status": 200
+  },
+  {
+    "path": "/post/the-real-costs-of-poor-support-why-businesses-switch-cpaas-providers",
+    "query": null,
+    "key": "post__the-real-costs-of-poor-support-why-businesses-switch-cpaas-providers",
+    "status": 200
+  },
+  {
+    "path": "/post/the-roi-of-rcs-how-to-calculate-your-business-case",
+    "query": null,
+    "key": "post__the-roi-of-rcs-how-to-calculate-your-business-case",
+    "status": 200
+  },
+  {
+    "path": "/post/the-role-of-ai-in-call-authentication-and-branded-caller-id",
+    "query": null,
+    "key": "post__the-role-of-ai-in-call-authentication-and-branded-caller-id",
+    "status": 200
+  },
+  {
+    "path": "/post/the-science-behind-digital-fatigue-why-does-it-happen",
+    "query": null,
+    "key": "post__the-science-behind-digital-fatigue-why-does-it-happen",
+    "status": 200
+  },
+  {
+    "path": "/post/the-u-s-telecommunications-cartel",
+    "query": null,
+    "key": "post__the-u-s-telecommunications-cartel",
+    "status": 200
+  },
+  {
+    "path": "/post/toll-free-phone-numbers-in-the-u-s-and-canada-a-comprehensive-guide",
+    "query": null,
+    "key": "post__toll-free-phone-numbers-in-the-u-s-and-canada-a-comprehensive-guide",
+    "status": 200
+  },
+  {
+    "path": "/post/toll-free-verification-guide",
+    "query": null,
+    "key": "post__toll-free-verification-guide",
+    "status": 200
+  },
+  {
+    "path": "/post/toll-free-vs-local-numbers-for-marketing-which-is-right-for-your-business",
+    "query": null,
+    "key": "post__toll-free-vs-local-numbers-for-marketing-which-is-right-for-your-business",
+    "status": 200
+  },
+  {
+    "path": "/post/top-6-cpaas-providers-you-must-know-about-in-2024",
+    "query": null,
+    "key": "post__top-6-cpaas-providers-you-must-know-about-in-2024",
+    "status": 200
+  },
+  {
+    "path": "/post/twilio-competitors-in-the-cpaas-world",
+    "query": null,
+    "key": "post__twilio-competitors-in-the-cpaas-world",
+    "status": 200
+  },
+  {
+    "path": "/post/twilio-elastic-sip-trunking-alternatives",
+    "query": null,
+    "key": "post__twilio-elastic-sip-trunking-alternatives",
+    "status": 200
+  },
+  {
+    "path": "/post/twilio-pricing-got-you-down-the-flat-rate-cpaas-alternative",
+    "query": null,
+    "key": "post__twilio-pricing-got-you-down-the-flat-rate-cpaas-alternative",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-a2p-calling-and-flash-calls-the-future-of-authentication",
+    "query": null,
+    "key": "post__understanding-a2p-calling-and-flash-calls-the-future-of-authentication",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-cpaas-pricing-why-transparency-matters",
+    "query": null,
+    "key": "post__understanding-cpaas-pricing-why-transparency-matters",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-the-evolution-of-branded-caller-id",
+    "query": null,
+    "key": "post__understanding-the-evolution-of-branded-caller-id",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-the-evolution-of-branded-caller-id-from-fragmentation-to-standardization",
+    "query": null,
+    "key": "post__understanding-the-evolution-of-branded-caller-id-from-fragmentation-to-standardization",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-the-federal-do-not-call-registry-and-dnc-compliance-for-businesses",
+    "query": null,
+    "key": "post__understanding-the-federal-do-not-call-registry-and-dnc-compliance-for-businesses",
+    "status": 200
+  },
+  {
+    "path": "/post/understanding-u-s-short-codes-management-assignment-and-modern-use-cases",
+    "query": null,
+    "key": "post__understanding-u-s-short-codes-management-assignment-and-modern-use-cases",
+    "status": 200
+  },
+  {
+    "path": "/post/ustelecoms-broadband-2025-building-the-future-faster-framework",
+    "query": null,
+    "key": "post__ustelecoms-broadband-2025-building-the-future-faster-framework",
+    "status": 200
+  },
+  {
+    "path": "/post/what-are-did-phone-numbers-and-how-do-you-purchase-them",
+    "query": null,
+    "key": "post__what-are-did-phone-numbers-and-how-do-you-purchase-them",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-10dlc",
+    "query": null,
+    "key": "post__what-is-10dlc",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-a-time-based-one-time-password-totp",
+    "query": null,
+    "key": "post__what-is-a-time-based-one-time-password-totp",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-a-trunk-group-understanding-elastic-sip-trunking",
+    "query": null,
+    "key": "post__what-is-a-trunk-group-understanding-elastic-sip-trunking",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-a-voip-network-and-how-does-it-work",
+    "query": null,
+    "key": "post__what-is-a-voip-network-and-how-does-it-work",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-branded-caller-id-bcid-and-why-its-the-future-of-business-voice",
+    "query": null,
+    "key": "post__what-is-branded-caller-id-bcid-and-why-its-the-future-of-business-voice",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-cpaas-features-benefits-and-leading-providers-in-2025",
+    "query": null,
+    "key": "post__what-is-cpaas-features-benefits-and-leading-providers-in-2025",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-flat-rate-cpaas-pricing",
+    "query": null,
+    "key": "post__what-is-flat-rate-cpaas-pricing",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-rcs-business-messaging",
+    "query": null,
+    "key": "post__what-is-rcs-business-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-rcs-messaging",
+    "query": null,
+    "key": "post__what-is-rcs-messaging",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-saas-software-as-a-service",
+    "query": null,
+    "key": "post__what-is-saas-software-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-sip-trunking",
+    "query": null,
+    "key": "post__what-is-sip-trunking",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-the-difference-between-cpaas-and-ucaas",
+    "query": null,
+    "key": "post__what-is-the-difference-between-cpaas-and-ucaas",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-voice-api-or-programmable-voice",
+    "query": null,
+    "key": "post__what-is-voice-api-or-programmable-voice",
+    "status": 200
+  },
+  {
+    "path": "/post/what-is-voiceover-internet-protocol-voip-why-do-businesses-use-it",
+    "query": null,
+    "key": "post__what-is-voiceover-internet-protocol-voip-why-do-businesses-use-it",
+    "status": 200
+  },
+  {
+    "path": "/post/what-know-your-customer-kyc-means-and-why-it-matters-in-telecom",
+    "query": null,
+    "key": "post__what-know-your-customer-kyc-means-and-why-it-matters-in-telecom",
+    "status": 200
+  },
+  {
+    "path": "/post/wholesale-sip-trunking-for-resellers",
+    "query": null,
+    "key": "post__wholesale-sip-trunking-for-resellers",
+    "status": 200
+  },
+  {
+    "path": "/post/why-fintech-fraud-alerts-are-being-mistaken-for-phishing-texts-and-what-rcs-actually-fixes",
+    "query": null,
+    "key": "post__why-fintech-fraud-alerts-are-being-mistaken-for-phishing-texts-and-what-rcs-actually-fixes",
+    "status": 200
+  },
+  {
+    "path": "/post/why-saas-companies-need-cpaas-for-customer-engagement",
+    "query": null,
+    "key": "post__why-saas-companies-need-cpaas-for-customer-engagement",
+    "status": 200
+  },
+  {
+    "path": "/post/why-your-business-calls-are-being-marked-scam-likely-and-how-to-fix-it",
+    "query": null,
+    "key": "post__why-your-business-calls-are-being-marked-scam-likely-and-how-to-fix-it",
+    "status": 200
+  },
+  {
+    "path": "/post/winning-the-2024-elections-the-power-of-sms-and-phone-calls-in-political-campaigns",
+    "query": null,
+    "key": "post__winning-the-2024-elections-the-power-of-sms-and-phone-calls-in-political-campaigns",
+    "status": 200
+  },
+  {
+    "path": "/post/zhone-technologies-acquires-dzs-assets",
+    "query": null,
+    "key": "post__zhone-technologies-acquires-dzs-assets",
+    "status": 200
+  },
+  {
+    "path": "/pricing",
+    "query": null,
+    "key": "pricing",
+    "status": 200
+  },
+  {
+    "path": "/privacy-policy",
+    "query": null,
+    "key": "privacy-policy",
+    "status": 200
+  },
+  {
+    "path": "/product",
+    "query": null,
+    "key": "product",
+    "status": 200
+  },
+  {
+    "path": "/rcs-studio",
+    "query": null,
+    "key": "rcs-studio",
+    "status": 200
+  },
+  {
+    "path": "/real-time-phone-number-intelligence",
+    "query": null,
+    "key": "real-time-phone-number-intelligence",
+    "status": 200
+  },
+  {
+    "path": "/resources-library",
+    "query": null,
+    "key": "resources-library",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/10dlc-explained-for-real-estate-agents",
+    "query": null,
+    "key": "resources-library__10dlc-explained-for-real-estate-agents",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/asset-1-rcs-implementation-guide",
+    "query": null,
+    "key": "resources-library__asset-1-rcs-implementation-guide",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/asset-2-rcs-use-case-playbook",
+    "query": null,
+    "key": "resources-library__asset-2-rcs-use-case-playbook",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/claims-process-revolution-incident-resolution-messaging",
+    "query": null,
+    "key": "resources-library__claims-process-revolution-incident-resolution-messaging",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/concert-festival-marketing-selling-out-verified-messaging",
+    "query": null,
+    "key": "resources-library__concert-festival-marketing-selling-out-verified-messaging",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/contactless-travel-experience-rcs-booking-baggage-claim",
+    "query": null,
+    "key": "resources-library__contactless-travel-experience-rcs-booking-baggage-claim",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/dynamic-travel-disruption-management-automated-rebooking",
+    "query": null,
+    "key": "resources-library__dynamic-travel-disruption-management-automated-rebooking",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/evolution-of-cart-recovery-rcs-complements-sms-email",
+    "query": null,
+    "key": "resources-library__evolution-of-cart-recovery-rcs-complements-sms-email",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/fighting-fraud-verified-messaging-89-reduction-phishing",
+    "query": null,
+    "key": "resources-library__fighting-fraud-verified-messaging-89-reduction-phishing",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/policy-renewal-revolution-94-retention-proactive-communication",
+    "query": null,
+    "key": "resources-library__policy-renewal-revolution-94-retention-proactive-communication",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/rcs-creative-best-practices-guide",
+    "query": null,
+    "key": "resources-library__rcs-creative-best-practices-guide",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/rcs-vs-sms-comparison-guide",
+    "query": null,
+    "key": "resources-library__rcs-vs-sms-comparison-guide",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/real-estate-lead-response-revolution",
+    "query": null,
+    "key": "resources-library__real-estate-lead-response-revolution",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/speed-to-lead-is-broken-without-reliable-sms-ebook",
+    "query": null,
+    "key": "resources-library__speed-to-lead-is-broken-without-reliable-sms-ebook",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/the-death-of-phone-banking",
+    "query": null,
+    "key": "resources-library__the-death-of-phone-banking",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/ticketing-revolution-purchase-post-event-rcs",
+    "query": null,
+    "key": "resources-library__ticketing-revolution-purchase-post-event-rcs",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/verified-commerce-building-customer-trust-digital-fraud",
+    "query": null,
+    "key": "resources-library__verified-commerce-building-customer-trust-digital-fraud",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/virtual-property-tours-rich-media-showcases-rcs",
+    "query": null,
+    "key": "resources-library__virtual-property-tours-rich-media-showcases-rcs",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/why-paying-less-for-sms-can-cost-you-more-deals",
+    "query": null,
+    "key": "resources-library__why-paying-less-for-sms-can-cost-you-more-deals",
+    "status": 200
+  },
+  {
+    "path": "/resources-library/why-your-real-estate-texts-not-delivered-ebook",
+    "query": null,
+    "key": "resources-library__why-your-real-estate-texts-not-delivered-ebook",
+    "status": 200
+  },
+  {
+    "path": "/retail",
+    "query": null,
+    "key": "retail",
+    "status": 200
+  },
+  {
+    "path": "/sales-teams",
+    "query": null,
+    "key": "sales-teams",
+    "status": 200
+  },
+  {
+    "path": "/short-code-messaging",
+    "query": null,
+    "key": "short-code-messaging",
+    "status": 200
+  },
+  {
+    "path": "/short-code-numbers",
+    "query": null,
+    "key": "short-code-numbers",
+    "status": 200
+  },
+  {
+    "path": "/signalcaas",
+    "query": null,
+    "key": "signalcaas",
+    "status": 200
+  },
+  {
+    "path": "/signalmash-partner-or-affiliate",
+    "query": null,
+    "key": "signalmash-partner-or-affiliate",
+    "status": 200
+  },
+  {
+    "path": "/signalmash-verifier",
+    "query": null,
+    "key": "signalmash-verifier",
+    "status": 200
+  },
+  {
+    "path": "/sip-trunking",
+    "query": null,
+    "key": "sip-trunking",
+    "status": 200
+  },
+  {
+    "path": "/sms-api",
+    "query": null,
+    "key": "sms-api",
+    "status": 200
+  },
+  {
+    "path": "/sms-character-counter",
+    "query": null,
+    "key": "sms-character-counter",
+    "status": 200
+  },
+  {
+    "path": "/sms-marketing",
+    "query": null,
+    "key": "sms-marketing",
+    "status": 200
+  },
+  {
+    "path": "/support-as-a-service",
+    "query": null,
+    "key": "support-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/support-teams",
+    "query": null,
+    "key": "support-teams",
+    "status": 200
+  },
+  {
+    "path": "/taxation-as-a-service",
+    "query": null,
+    "key": "taxation-as-a-service",
+    "status": 200
+  },
+  {
+    "path": "/tech-support",
+    "query": null,
+    "key": "tech-support",
+    "status": 200
+  },
+  {
+    "path": "/telecom-glossary",
+    "query": null,
+    "key": "telecom-glossary",
+    "status": 200
+  },
+  {
+    "path": "/terms-of-service",
+    "query": null,
+    "key": "terms-of-service",
+    "status": 200
+  },
+  {
+    "path": "/text-messaging",
+    "query": null,
+    "key": "text-messaging",
+    "status": 200
+  },
+  {
+    "path": "/thank-you",
+    "query": null,
+    "key": "thank-you",
+    "status": 200
+  },
+  {
+    "path": "/toll-free-messaging",
+    "query": null,
+    "key": "toll-free-messaging",
+    "status": 200
+  },
+  {
+    "path": "/toll-free-numbers",
+    "query": null,
+    "key": "toll-free-numbers",
+    "status": 200
+  },
+  {
+    "path": "/toll-free-origination",
+    "query": null,
+    "key": "toll-free-origination",
+    "status": 200
+  },
+  {
+    "path": "/u-s-telecom-regulations",
+    "query": null,
+    "key": "u-s-telecom-regulations",
+    "status": 200
+  },
+  {
+    "path": "/user-verification-and-identity",
+    "query": null,
+    "key": "user-verification-and-identity",
+    "status": 200
+  },
+  {
+    "path": "/what-sms-character-limit",
+    "query": null,
+    "key": "what-sms-character-limit",
+    "status": 200
+  },
+  {
+    "path": "/wholesale-sip-trunking",
+    "query": null,
+    "key": "wholesale-sip-trunking",
+    "status": 200
+  }
+]

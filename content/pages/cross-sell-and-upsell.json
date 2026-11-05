@@ -1,0 +1,113 @@
+{
+  "path": "/cross-sell-and-upsell",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68de9545ea33ccd763d759eb",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68de9545ea33ccd763d759eb",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Grow Revenue | Cross-Sell & Upsell with CPaaS Messaging"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Use personalized SMS and voice automation to grow customer value. Signalmash helps businesses cross-sell with compliant precision.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Grow Revenue | Cross-Sell & Upsell with CPaaS Messaging",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Use personalized SMS and voice automation to grow customer value. Signalmash helps businesses cross-sell with compliant precision.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Grow Revenue | Cross-Sell & Upsell with CPaaS Messaging",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Use personalized SMS and voice automation to grow customer value. Signalmash helps businesses cross-sell with compliant precision.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/cross-sell-and-upsell",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

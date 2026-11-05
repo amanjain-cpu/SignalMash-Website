@@ -1,0 +1,115 @@
+{
+  "path": "/resources-library/contactless-travel-experience-rcs-booking-baggage-claim",
+  "query": null,
+  "status": 200,
+  "wfPageId": "695fc500e4db2651a97b26e9",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "695fc500e4db2651a97b26e9",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "695fc500e4db2651a97b26e2",
+    "data-wf-item-slug": "contactless-travel-experience-rcs-booking-baggage-claim"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Contactless Travel with RCS: Booking to Baggage Claim"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore how RCS is powering the contactless travel experience, from seamless booking confirmations to real-time baggage tracking.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Contactless Travel with RCS: Booking to Baggage Claim",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore how RCS is powering the contactless travel experience, from seamless booking confirmations to real-time baggage tracking.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Contactless Travel with RCS: Booking to Baggage Claim",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Explore how RCS is powering the contactless travel experience, from seamless booking confirmations to real-time baggage tracking.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/resources-library/contactless-travel-experience-rcs-booking-baggage-claim",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

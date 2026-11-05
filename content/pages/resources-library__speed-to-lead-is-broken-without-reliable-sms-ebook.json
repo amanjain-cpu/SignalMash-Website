@@ -1,0 +1,115 @@
+{
+  "path": "/resources-library/speed-to-lead-is-broken-without-reliable-sms-ebook",
+  "query": null,
+  "status": 200,
+  "wfPageId": "695fc500e4db2651a97b26e9",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "695fc500e4db2651a97b26e9",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "695fc500e4db2651a97b26e2",
+    "data-wf-item-slug": "speed-to-lead-is-broken-without-reliable-sms-ebook"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Speed to Lead Is Broken Without Reliable SMS | eBook"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Speed to lead is one of the strongest predictors of real estate conversion. This eBook shows why unreliable SMS breaks it and how to fix delivery for good.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Speed to Lead Is Broken Without Reliable SMS | eBook",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Speed to lead is one of the strongest predictors of real estate conversion. This eBook shows why unreliable SMS breaks it and how to fix delivery for good.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Speed to Lead Is Broken Without Reliable SMS | eBook",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Speed to lead is one of the strongest predictors of real estate conversion. This eBook shows why unreliable SMS breaks it and how to fix delivery for good.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/resources-library/speed-to-lead-is-broken-without-reliable-sms-ebook",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

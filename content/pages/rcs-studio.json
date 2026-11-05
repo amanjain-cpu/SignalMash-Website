@@ -1,0 +1,123 @@
+{
+  "path": "/rcs-studio",
+  "query": null,
+  "status": 200,
+  "wfPageId": "694bdc1b5babcc4e4ac23cfc",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "694bdc1b5babcc4e4ac23cfc",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "SimplyRCS | Replace Your Mobile App with Rich Messaging"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SimplyRCS by Signalmash: build app-like messaging experiences with rich cards, carousels and one-tap actions, no app development required. Start free.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SimplyRCS | Replace Your Mobile App with Rich Messaging",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SimplyRCS by Signalmash: build app-like messaging experiences with rich cards, carousels and one-tap actions, no app development required. Start free.",
+        "property": "og:description"
+      }
+    },
+    {
+      "shared": "meta-og-image"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SimplyRCS | Replace Your Mobile App with Rich Messaging",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "SimplyRCS by Signalmash: build app-like messaging experiences with rich cards, carousels and one-tap actions, no app development required. Start free.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/rcs-studio",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://signalmash.com/rcs-studio#webpage\",\"url\":\"https://signalmash.com/rcs-studio\",\"name\":\"SimplyRCS | Replace Your Mobile App with Rich Messaging\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://signalmash.com/\",\"name\":\"Signalmash\",\"publisher\":{\"@id\":\"https://signalmash.com/#organization\"}},\"about\":{\"@id\":\"https://simplyrcs.ai/#software\"}},{\"@type\":\"SoftwareApplication\",\"@id\":\"https://simplyrcs.ai/#software\",\"name\":\"SimplyRCS\",\"alternateName\":\"SimplyRCS Platform\",\"url\":\"https://simplyrcs.ai/\",\"applicationCategory\":\"CommunicationApplication\",\"operatingSystem\":\"Web\",\"description\":\"RCS business messaging platform for US brands, built by Signalmash: verified, branded RCS with rich cards, carousels and one-tap actions, automatic SMS fallback, an AI bot builder and a shared inbox, with published usage-based pricing.\",\"provider\":{\"@id\":\"https://signalmash.com/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"SimplyRCS\",\"url\":\"https://simplyrcs.ai/\"},\"sameAs\":[\"https://simplyrcs.ai/platform/\",\"https://simplyrcs.ai/pricing/\"]}]}"
+    }
+  ]
+}

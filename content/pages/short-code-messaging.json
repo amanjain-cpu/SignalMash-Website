@@ -1,0 +1,127 @@
+{
+  "path": "/short-code-messaging",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68b861e63431052941faa752",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68b861e63431052941faa752",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Short Code Messaging | High-Volume Texting at Scale"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Run large-scale SMS campaigns with dedicated short codes. Signalmash streamlines carrier approvals for fast, compliant campaign launches.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Short Code Messaging | High-Volume Texting at Scale",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Run large-scale SMS campaigns with dedicated short codes. Signalmash streamlines carrier approvals for fast, compliant campaign launches.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Short Code Messaging | High-Volume Texting at Scale",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Run large-scale SMS campaigns with dedicated short codes. Signalmash streamlines carrier approvals for fast, compliant campaign launches.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/short-code-messaging",
+        "rel": "canonical"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"name\":\"Short Code Messaging\",\"serviceType\":\"Short Code Messaging\",\"url\":\"https://signalmash.com/short-code-messaging\",\"description\":\"Dedicated and shared US short codes for high-volume SMS and MMS: OTPs, alerts and marketing at hundreds of messages per second.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Signalmash\",\"url\":\"https://signalmash.com\",\"telephone\":\"+18662179750\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://signalmash.com/pricing\",\"priceCurrency\":\"USD\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://signalmash.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Short Code Messaging\",\"item\":\"https://signalmash.com/short-code-messaging\"}]}]}"
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "application/ld+json"
+      },
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"@id\":\"https://signalmash.com/short-code-messaging#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Can I keep my short code if I switch providers?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, short codes are portable. You can transfer a registered short code between providers, ensuring you maintain customer engagement without disruption.\"}},{\"@type\":\"Question\",\"name\":\"Can I use a short code for both SMS and MMS?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Short codes support both text messages (SMS) and multimedia messages (MMS), allowing businesses to send images, GIFs, and videos.\"}},{\"@type\":\"Question\",\"name\":\"Do short codes work internationally?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"In the U.S. and Canada, short codes are country-specific. If you need international short codes, we can help you navigate the approval process in different regions.\"}},{\"@type\":\"Question\",\"name\":\"How long does it take to set up a short code?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Short code approval can take between 6 to 12 weeks, as carriers review messaging use cases and compliance details.\"}},{\"@type\":\"Question\",\"name\":\"What industries use short codes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Short codes are widely used in retail and e-commerce (flash sales, promotions), finance and banking (fraud alerts, account authentication), healthcare (appointment reminders, prescription updates) and government and public safety (emergency notifications).\"}},{\"@type\":\"Question\",\"name\":\"How do I get people to opt in for short code messaging?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Businesses must obtain explicit opt-in consent before sending messages. Common methods include website forms, keyword-based opt-ins (e.g., 'Text JOIN to 12345'), and mobile app agreements.\"}},{\"@type\":\"Question\",\"name\":\"Can I integrate short code messaging into my CRM or helpdesk?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Signalmash provides API and webhook integrations to sync short code messaging with CRM systems, helpdesks, and customer engagement platforms.\"}},{\"@type\":\"Question\",\"name\":\"Can I set up automated responses on my short code?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, short codes support automated responses based on keywords, triggers, or chatbot interactions, improving customer engagement.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between a short code and 10DLC?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A short code is a dedicated 5-6 digit number that sends hundreds of messages per second with the highest deliverability, while 10DLC uses a standard 10-digit local number with lower throughput and lower cost. Short codes take 8-12 weeks to approve; 10DLC campaigns take days.\"}},{\"@type\":\"Question\",\"name\":\"How much does a short code cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"In the US a random short code leases for about $500 per month and a vanity short code for about $1,000 per month, billed quarterly by the registry, plus per-message fees. Signalmash also offers shared short code programs for lower-volume senders.\"}},{\"@type\":\"Question\",\"name\":\"Does a US short code work in Canada?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. US and Canadian short codes are separate programmes with separate carriers, registries and approvals. Sending to both countries means leasing a code in each, or using a verified toll-free number, which delivers to both.\"}},{\"@type\":\"Question\",\"name\":\"How much does a Canadian short code cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The Canadian Telecommunications Association's published fee is a $1,500 plus tax deposit covering the first three months and $350 plus tax per month after that, on a one-year lease, with a $250 monthly rate for registered charities. Provider platform and per-message fees are additional, and provisioning takes three to six weeks after the weekly application review.\"}},{\"@type\":\"Question\",\"name\":\"How do I find out who texted me from a short code?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Reply HELP to the code: carrier rules require the programme to answer with the brand name and contact details. Check the message body for the brand, look the code up in a third-party directory as a secondary check, and if it looks like a scam, forward it to 7726 and do not follow the link.\"}}]}"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "path": "/u-s-telecom-regulations",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68e7f1b58bc0a5567569bcf7",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68e7f1b58bc0a5567569bcf7",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "US Telecom Regulations 2026: TCPA, 10DLC, STIR/SHAKEN Guide"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "US telecom regulations for business calling and texting: TCPA, 10DLC, STIR/SHAKEN, CTIA rules, state mini-TCPAs and every 2025-2026 change, dated, with what to do.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "US Telecom Regulations 2026: TCPA, 10DLC, STIR/SHAKEN Guide",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "US telecom regulations for business calling and texting: TCPA, 10DLC, STIR/SHAKEN, CTIA rules, state mini-TCPAs and every 2025-2026 change, dated, with what to do.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "US Telecom Regulations 2026: TCPA, 10DLC, STIR/SHAKEN Guide",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "US telecom regulations for business calling and texting: TCPA, 10DLC, STIR/SHAKEN, CTIA rules, state mini-TCPAs and every 2025-2026 change, dated, with what to do.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/u-s-telecom-regulations",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

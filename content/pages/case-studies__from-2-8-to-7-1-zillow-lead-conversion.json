@@ -1,0 +1,115 @@
+{
+  "path": "/case-studies/from-2-8-to-7-1-zillow-lead-conversion",
+  "query": null,
+  "status": 200,
+  "wfPageId": "68ea814976e80c3b0af23425",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "68ea814976e80c3b0af23425",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "68ea814976e80c3b0af2341e",
+    "data-wf-item-slug": "from-2-8-to-7-1-zillow-lead-conversion"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "154% Boost in Zillow Lead Conversion | Case Study"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A real estate team lifted Zillow lead conversion from 2.8% to 7.1% with an 11-second response time and 98% SMS delivery through Signalmash.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "154% Boost in Zillow Lead Conversion | Case Study",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A real estate team lifted Zillow lead conversion from 2.8% to 7.1% with an 11-second response time and 98% SMS delivery through Signalmash.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "154% Boost in Zillow Lead Conversion | Case Study",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "A real estate team lifted Zillow lead conversion from 2.8% to 7.1% with an 11-second response time and 98% SMS delivery through Signalmash.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/case-studies/from-2-8-to-7-1-zillow-lead-conversion",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}

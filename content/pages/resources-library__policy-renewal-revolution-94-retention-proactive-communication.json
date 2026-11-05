@@ -1,0 +1,115 @@
+{
+  "path": "/resources-library/policy-renewal-revolution-94-retention-proactive-communication",
+  "query": null,
+  "status": 200,
+  "wfPageId": "695fc500e4db2651a97b26e9",
+  "html": {
+    "data-wf-domain": "signalmash.com",
+    "data-wf-page": "695fc500e4db2651a97b26e9",
+    "data-wf-site": "68a3572908cc6b1214445ee3",
+    "lang": "en",
+    "data-wf-collection": "695fc500e4db2651a97b26e2",
+    "data-wf-item-slug": "policy-renewal-revolution-94-retention-proactive-communication"
+  },
+  "body": {},
+  "head": [
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Policy Renewal Revolution: 94% Retention via Messaging"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Learn how proactive communication strategies are driving 94% policy renewal retention rates and transforming insurance customer engagement.",
+        "name": "description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Policy Renewal Revolution: 94% Retention via Messaging",
+        "property": "og:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Learn how proactive communication strategies are driving 94% policy renewal retention rates and transforming insurance customer engagement.",
+        "property": "og:description"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Policy Renewal Revolution: 94% Retention via Messaging",
+        "name": "twitter:title"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Learn how proactive communication strategies are driving 94% policy renewal retention rates and transforming insurance customer engagement.",
+        "name": "twitter:description"
+      }
+    },
+    {
+      "shared": "meta-og-type"
+    },
+    {
+      "shared": "meta-twitter-card"
+    },
+    {
+      "shared": "stylesheet-noahs-fantabulous-site-a2251e"
+    },
+    {
+      "shared": "link-preconnect-fonts-googleapis-com"
+    },
+    {
+      "shared": "link-preconnect-fonts-gstatic-com"
+    },
+    {
+      "shared": "google-fonts-loader"
+    },
+    {
+      "shared": "google-fonts"
+    },
+    {
+      "shared": "webflow-js-detect"
+    },
+    {
+      "shared": "link-shortcut-icon-32x32-png"
+    },
+    {
+      "shared": "link-apple-touch-icon-webclip-png"
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "href": "https://signalmash.com/resources-library/policy-renewal-revolution-94-retention-proactive-communication",
+        "rel": "canonical"
+      }
+    },
+    {
+      "shared": "google-tag-manager"
+    },
+    {
+      "shared": "google-analytics-loader"
+    },
+    {
+      "shared": "google-analytics-config"
+    },
+    {
+      "shared": "reb2b-visitor-id"
+    },
+    {
+      "shared": "organization-schema"
+    },
+    {
+      "shared": "schema-text-fix"
+    },
+    {
+      "shared": "pagination-seo"
+    }
+  ]
+}
