@@ -15,7 +15,9 @@
     "import:build": "node scripts/build-content.mjs",
     "verify:seo": "node scripts/verify-seo.mjs",
     "verify:visual": "node scripts/visual-compare.mjs",
-    "verify:post-schema": "node scripts/verify-post-schema.mjs"
+    "verify:post-schema": "node scripts/verify-post-schema.mjs",
+    "build:cloudflare": "node scripts/build-cloudflare.mjs",
+    "deploy:cloudflare": "npx wrangler@3 pages deploy out --project-name signalmash-website --branch main --commit-dirty=true"
   },
   "engines": {
     "node": ">=20.9"

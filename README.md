@@ -97,6 +97,26 @@ A new page needs an entry in `content/routes.json`, a `.json` and an `.html` fil
 
   Until it is set, submitting shows the form's existing error message and sends nothing.
 
+## Cloudflare Pages (shareable preview)
+
+The site also builds as plain files, for Cloudflare Pages:
+
+```bash
+npx wrangler@3 login          # once per machine; opens the browser
+npm run build:cloudflare      # out/: every page, the assets, and out/_worker.js
+npm run deploy:cloudflare     # https://signalmash-website.pages.dev
+```
+
+A static host has no Next.js server, so `out/_worker.js` (from `cloudflare/worker.template.js`)
+does what `src/proxy.ts` and `next.config.ts` do on a Node host: the 35 redirects, `/path/` →
+`/path`, collection-list pages, and 404s. `npm run verify:seo -- <url>` passes against it.
+
+On a `*.pages.dev` address every page is sent with `X-Robots-Tag: noindex`, so the preview is never
+indexed as a duplicate of signalmash.com. Analytics are off in builds made with this repo's
+`.env.local` (`ANALYTICS=off`), so preview visits stay out of the production numbers.
+
+Wrangler 3 is used because Wrangler 4 needs Node 22.
+
 ## Re-importing from Webflow
 
 If anything is edited in Webflow before the switch, import again so it is not lost:
@@ -119,7 +139,7 @@ npm run verify:visual     # screenshot comparison (needs Python 3 + Pillow)
 | `ANALYTICS` | on | `off` leaves out GTM, Google Analytics and Reb2B (local previews) |
 | `NEWSLETTER_FORM_ACTION` | none | where the footer newsletter form posts |
 | `NEWSLETTER_EMAIL_FIELD` | `Email` | the email field's name at that URL |
-| `NEXT_OUTPUT` | none | `standalone` builds a self-contained server for a Docker image |
+| `NEXT_OUTPUT` | none | `standalone`: a self-contained server for a Docker image; `export`: plain files (used by `build:cloudflare`) |
 
 ## Before switching DNS
 
