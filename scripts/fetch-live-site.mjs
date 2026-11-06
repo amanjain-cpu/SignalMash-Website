@@ -4,7 +4,8 @@
  *   node scripts/fetch-live-site.mjs [origin]      (default origin: https://signalmash.com)
  *
  * Writes into capture/ (gitignored):
- *   sitemap.xml, robots.txt     verbatim copies, served unchanged from public/
+ *   sitemap.xml, robots.txt,    verbatim copies, served unchanged from public/
+ *   llms.txt                    (llms.txt is not in the sitemap: a summary of the site for AI models)
  *   pages/<key>.html            one file per sitemap URL ("/" is index.html, "/a/b" is a__b.html)
  *   paged/<key>@<q>.html        every Webflow collection-list page ("/blog?56e6ea54_page=2")
  *   404.html                    the custom not-found page
@@ -18,6 +19,8 @@ import path from "node:path";
 const ORIGIN = (process.argv[2] ?? "https://signalmash.com").replace(/\/$/, "");
 const CAP = path.resolve("capture");
 const CONCURRENCY = 8;
+/** Files at the site root that are not pages. Checked 2026-11-06: these are the ones that exist. */
+const ROOT_FILES = ["robots.txt", "llms.txt"];
 
 async function get(url) {
   for (let attempt = 1; ; attempt++) {
@@ -47,7 +50,11 @@ fs.mkdirSync(path.join(CAP, "paged"), { recursive: true });
 
 const sitemap = await get(`${ORIGIN}/sitemap.xml`);
 fs.writeFileSync(path.join(CAP, "sitemap.xml"), sitemap.text);
-fs.writeFileSync(path.join(CAP, "robots.txt"), (await get(`${ORIGIN}/robots.txt`)).text);
+for (const file of ROOT_FILES) {
+  const res = await get(`${ORIGIN}/${file}`);
+  if (res.status !== 200) throw new Error(`/${file} answered ${res.status}`);
+  fs.writeFileSync(path.join(CAP, file), res.text);
+}
 
 const paths = [...sitemap.text.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => {
   const p = new URL(m[1]).pathname.replace(/\/$/, "");

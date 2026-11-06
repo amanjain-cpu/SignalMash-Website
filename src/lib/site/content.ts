@@ -2,6 +2,7 @@ import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import { assembleBody } from "./assemble.mjs";
+import { POST_SCHEMA_SNIPPET, postSchema } from "./post-schema";
 
 /**
  * Reads the site content written by scripts/build-content.mjs. See content/README.md for the
@@ -164,13 +165,31 @@ function resolveSiteUrl(node: HeadNode, origin: string): HeadNode {
     : node;
 }
 
-/** The page's <body> markup, exactly as Webflow published it. */
-export function bodyFor(page: PageRecord, key = keyOf(page)): string {
-  return assembleBody(read("pages", `${key}.html`), load().shared, {
-    path: page.path,
-    wfPageId: page.wfPageId,
-    siteUrl: siteUrl(),
-  });
+const bodies = new Map<string, string>();
+
+/**
+ * The page's <body> markup, as Webflow published it, with one exception: the script that built
+ * blog post schema in the browser is left out, because postSchema() now puts that schema in the
+ * page's <head> when the page is built (see post-schema.ts).
+ */
+export function bodyFor(page: PageRecord): string {
+  const key = keyOf(page);
+  let html = bodies.get(key);
+  if (html === undefined) {
+    const { shared } = load();
+    html = assembleBody(
+      read("pages", `${key}.html`),
+      { ...shared, snippets: { ...shared.snippets, [POST_SCHEMA_SNIPPET]: "" } },
+      { path: page.path, wfPageId: page.wfPageId, siteUrl: siteUrl() },
+    );
+    bodies.set(key, html);
+  }
+  return html;
+}
+
+/** Schema markup generated at build time, rendered after the page's own <head> entries. */
+export function generatedSchemaFor(page: PageRecord): object[] {
+  return postSchema(page, headFor(page), bodyFor(page), siteUrl());
 }
 
 function keyOf(page: PageRecord): string {

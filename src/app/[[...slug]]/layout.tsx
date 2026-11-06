@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { getNotFoundPage, getPage, headFor } from "@/lib/site/content";
+import { generatedSchemaFor, getNotFoundPage, getPage, headFor } from "@/lib/site/content";
 import { HeadNodes } from "@/lib/site/head-nodes";
 import { toProps } from "@/lib/site/html-props";
 import { newsletterScript } from "@/lib/site/newsletter";
@@ -32,6 +32,13 @@ export default async function RootLayout({
     <html {...toProps(page.html)} suppressHydrationWarning>
       <head>
         <HeadNodes nodes={headFor(page)} />
+        {generatedSchemaFor(page).map((schema, i) => (
+          <script
+            key={`schema-${i}`}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replaceAll("<", "\\u003c") }}
+          />
+        ))}
         <script dangerouslySetInnerHTML={{ __html: newsletterScript() }} />
       </head>
       <body {...toProps(page.body)} suppressHydrationWarning>

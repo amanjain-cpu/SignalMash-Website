@@ -72,7 +72,15 @@ function facts(html) {
  * The 404 page: Next.js marks not-found responses noindex, which is what a 404 should be anyway.
  */
 function expectedDifference(route, key, live, local) {
-  return route.status === 404 && key === "robots" && live === null && local === "noindex";
+  if (route.status === 404 && key === "robots" && live === null && local === "noindex") return true;
+  /* Blog posts: BlogPosting/FAQPage schema is now in the HTML; on Webflow a script added it after
+     load, so it is not in the captured HTML. scripts/verify-post-schema.mjs compares it with what
+     that script builds. Everything else in the JSON-LD must still match. */
+  if (key === "jsonLd" && route.path.startsWith("/post/")) {
+    const generated = (s) => /"@type":"(BlogPosting|FAQPage)"/.test(s.slice(0, 80));
+    return JSON.stringify(local.filter((s) => !generated(s))) === JSON.stringify(live);
+  }
+  return false;
 }
 
 const captureFile = (r) =>

@@ -84,6 +84,13 @@ describe("stored content", () => {
     ),
   };
 
+  it("serves robots.txt, sitemap.xml and llms.txt (the AI-model summary) from the live site", () => {
+    for (const f of ["robots.txt", "sitemap.xml", "llms.txt"]) {
+      expect(fs.statSync(path.join("public", f)).size, f).toBeGreaterThan(100);
+    }
+    expect(fs.readFileSync("public/robots.txt", "utf8")).toMatch(/GPTBot/);
+  });
+
   it("has a page for every URL in the sitemap", () => {
     const sitemap = fs.readFileSync("public/sitemap.xml", "utf8");
     const paths = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(

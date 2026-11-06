@@ -14,12 +14,14 @@
     "import:assets": "node scripts/download-assets.mjs",
     "import:build": "node scripts/build-content.mjs",
     "verify:seo": "node scripts/verify-seo.mjs",
-    "verify:visual": "node scripts/visual-compare.mjs"
+    "verify:visual": "node scripts/visual-compare.mjs",
+    "verify:post-schema": "node scripts/verify-post-schema.mjs"
   },
   "engines": {
     "node": ">=20.9"
   },
   "dependencies": {
+    "cheerio": "^1.1.2",
     "next": "16.2.10",
     "react": "19.2.4",
     "react-dom": "19.2.4",
@@ -31,7 +33,6 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "cheerio": "^1.1.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
     "tailwindcss": "^4",

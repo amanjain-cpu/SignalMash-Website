@@ -6,7 +6,7 @@
  * Reads capture/ (see fetch-live-site.mjs and download-assets.mjs) and writes:
  *
  *   public/cdn/**                 every Webflow asset, at the URL assets.mjs assigns it
- *   public/sitemap.xml, robots.txt  verbatim copies of the live files
+ *   public/sitemap.xml, robots.txt, llms.txt   verbatim copies of the live files
  *   content/routes.json           every route: path, optional collection-page query, content file
  *   content/pages/<key>.json      per page: <html>/<body> attributes and the ordered <head>
  *   content/pages/<key>.html      per page: the <body> markup, shared parts as placeholders
@@ -364,6 +364,7 @@ fs.writeFileSync(path.join(OUT, "shared", "head.json"), JSON.stringify(headPool,
 fs.mkdirSync(PUBLIC, { recursive: true });
 fs.copyFileSync(path.join(CAP, "sitemap.xml"), path.join(PUBLIC, "sitemap.xml"));
 fs.copyFileSync(path.join(CAP, "robots.txt"), path.join(PUBLIC, "robots.txt"));
+fs.copyFileSync(path.join(CAP, "llms.txt"), path.join(PUBLIC, "llms.txt"));
 const assetCount = copyAssets();
 
 console.log(`routes: ${routes.length} (${routes.filter((r) => r.query).length} collection pages)`);
