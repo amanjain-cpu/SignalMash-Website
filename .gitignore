@@ -29,3 +29,6 @@ C*Users*claude-notify-*
 # os
 .DS_Store
 Thumbs.db
+
+# Cloudflare Wrangler local state and temporary bundles
+.wrangler
